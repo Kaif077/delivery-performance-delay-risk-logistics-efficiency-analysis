@@ -28,7 +28,6 @@ As a result, logistics teams operate reactively instead of preventively.
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-- Power BI / Streamlit (if used)
 
 ## Dataset Information
 The original dataset used for this project is large in size.  
@@ -55,9 +54,8 @@ A representative sample dataset has been included in this repository for referen
 
 project-folder/
 │── sample_dataset.csv  
-│── project_analysis.ipynb  
-│── report.pdf  
-│── dashboard.pbix (if applicable)  
+│── project_analysis.ipynb    
+│── project_dashboard.py
 │── README.md  
 
 ## How to Run the Project

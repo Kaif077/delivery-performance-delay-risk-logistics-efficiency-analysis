@@ -1,0 +1,1001 @@
+Type,Days for shipping (real),Days for shipment (scheduled),Benefit per order,Sales per customer,Delivery Status,Late_delivery_risk,Category Id,Category Name,Customer City,Customer Country,Customer Fname,Customer Id,Customer Lname,Customer Segment,Customer State,Customer Street,Customer Zipcode,Department Id,Department Name,Latitude,Longitude,Market,Order City,Order Country,Order Customer Id
+DEBIT,6,4,159.69,472.45,Late delivery,1,9,Cardio Equipment,Brownsville,EE. UU.,Richard,1,Hernandez,Consumer,TX,6303 Heather Plaza,78521,3,Footwear,25.95364761,-97.5076828,Pacific Asia,Mumbai,India,1
+DEBIT,4,4,48.71,167.96,Shipping on time,0,29,Shop By Sport,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,5,Golf,38.37559509,-104.7260208,LATAM,San Pedro Sula,Honduras,2
+DEBIT,4,4,87.36,181.99,Shipping on time,0,48,Water Sports,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,7,Fan Shop,38.37559509,-104.7260208,LATAM,San Pedro Sula,Honduras,2
+DEBIT,6,4,-41.89,175.99,Late delivery,1,48,Water Sports,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,7,Fan Shop,38.37559509,-104.7260208,USCA,New York City,Estados Unidos,2
+DEBIT,6,4,10,40,Late delivery,1,24,Women's Apparel,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,5,Golf,38.37559509,-104.7260208,USCA,New York City,Estados Unidos,2
+DEBIT,6,4,105.63,290.98,Late delivery,1,43,Camping & Hiking,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,7,Fan Shop,38.37559509,-104.7260208,USCA,New York City,Estados Unidos,2
+DEBIT,4,4,64.1,142.44,Shipping on time,0,46,Indoor/Outdoor Games,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,7,Fan Shop,38.37559509,-104.7260208,LATAM,San Pedro Sula,Honduras,2
+DEBIT,4,4,22.67,83.97,Shipping on time,0,46,Indoor/Outdoor Games,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,7,Fan Shop,38.37559509,-104.7260208,LATAM,San Pedro Sula,Honduras,2
+DEBIT,4,4,3.52,351.98,Shipping on time,0,45,Fishing,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,7,Fan Shop,38.37559509,-104.7260208,Europe,Rome,Italia,2
+DEBIT,4,4,40.34,98.38,Shipping on time,0,17,Cleats,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,4,Apparel,38.37559509,-104.7260208,LATAM,San Pedro Sula,Honduras,2
+PAYMENT,3,4,-131.7,84.97,Advance shipping,0,46,Indoor/Outdoor Games,Littleton,EE. UU.,Mary,2,Barrett,Consumer,CO,9526 Noble Embers Ridge,80126,7,Fan Shop,38.37559509,-104.7260208,Europe,Munich,Alemania,2
+DEBIT,3,4,34.5,74.99,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,3,Footwear,18.02537537,-66.61508179,Pacific Asia,Mount Gambier,Australia,3
+DEBIT,3,4,10.8,40,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,5,Golf,18.02537537,-66.61508179,Pacific Asia,Mount Gambier,Australia,3
+DEBIT,4,4,-42.61,24.35,Shipping on time,0,13,Electronics,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,3,Footwear,18.02537537,-66.61508179,USCA,Yonkers,Estados Unidos,3
+DEBIT,3,4,27.41,94.5,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,5,Golf,18.02537537,-66.61508179,Pacific Asia,Mount Gambier,Australia,3
+DEBIT,0,0,-140.73,191.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,LATAM,Vassouras,Brasil,3
+DEBIT,0,0,11.4,189.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,LATAM,Los Mochis,M‚xico,3
+DEBIT,0,0,46.51,98.96,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,LATAM,Los Mochis,M‚xico,3
+DEBIT,4,4,-274.39,391.98,Shipping on time,0,45,Fishing,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,USCA,Yonkers,Estados Unidos,3
+TRANSFER,4,4,83.69,269.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,LATAM,Tegucigalpa,Honduras,3
+TRANSFER,4,4,108.23,263.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,LATAM,Tegucigalpa,Honduras,3
+TRANSFER,4,4,11.25,90,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,5,Golf,18.02537537,-66.61508179,LATAM,Tegucigalpa,Honduras,3
+TRANSFER,4,4,66.62,141.75,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,5,Golf,18.02537537,-66.61508179,LATAM,Tegucigalpa,Honduras,3
+DEBIT,0,0,43.16,107.89,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,4,Apparel,18.02537537,-66.61508179,LATAM,Vassouras,Brasil,3
+DEBIT,0,0,2.99,248.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,LATAM,Vassouras,Brasil,3
+DEBIT,0,0,39.36,245.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,7,Fan Shop,18.02537537,-66.61508179,LATAM,Vassouras,Brasil,3
+DEBIT,0,0,117.58,235.16,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,4,Apparel,18.02537537,-66.61508179,LATAM,Los Mochis,M‚xico,3
+DEBIT,0,0,111.73,232.76,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,4,Apparel,18.02537537,-66.61508179,LATAM,Los Mochis,M‚xico,3
+TRANSFER,4,4,76.99,245.96,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Ann,3,Smith,Consumer,PR,3422 Blue Pioneer Bend,725,4,Apparel,18.02537537,-66.61508179,LATAM,Tegucigalpa,Honduras,3
+DEBIT,5,4,-445.21,251.96,Late delivery,1,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,Pacific Asia,Mersin,Turqu¡a,4
+CASH,3,4,17.22,49.19,Advance shipping,0,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,Africa,Benin City,Nigeria,4
+CASH,3,4,33.25,98.38,Advance shipping,0,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,Africa,Benin City,Nigeria,4
+CASH,3,4,-70.36,95.98,Advance shipping,0,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,Africa,Benin City,Nigeria,4
+DEBIT,2,1,-41.77,56.99,Late delivery,1,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,LATAM,Bayeux,Brasil,4
+DEBIT,2,1,48.66,143.98,Late delivery,1,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,LATAM,Bayeux,Brasil,4
+DEBIT,2,1,59.39,134.98,Late delivery,1,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,LATAM,Bayeux,Brasil,4
+DEBIT,2,1,26.99,119.95,Late delivery,1,40,Accessories,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,6,Outdoors,33.67002106,-112.2470779,LATAM,Bayeux,Brasil,4
+DEBIT,1,0,3.37,18.74,Late delivery,1,40,Accessories,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,6,Outdoors,33.67002106,-112.2470779,LATAM,Santiago de Cuba,Cuba,4
+DEBIT,1,0,23.23,70.38,Late delivery,1,29,Shop By Sport,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,5,Golf,33.67002106,-112.2470779,LATAM,Santiago de Cuba,Cuba,4
+DEBIT,5,4,11.88,118.78,Late delivery,1,17,Cleats,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,4,Apparel,33.67002106,-112.2470779,Pacific Asia,Mersin,Turqu¡a,4
+DEBIT,5,4,-21,84,Late delivery,1,24,Women's Apparel,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,5,Golf,33.67002106,-112.2470779,Pacific Asia,Mersin,Turqu¡a,4
+DEBIT,1,0,-119.92,139.44,Late delivery,1,46,Indoor/Outdoor Games,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,7,Fan Shop,33.67002106,-112.2470779,LATAM,Santiago de Cuba,Cuba,4
+DEBIT,1,0,34.29,97.96,Late delivery,1,46,Indoor/Outdoor Games,San Marcos,EE. UU.,Mary,4,Jones,Consumer,CA,8324 Little Common,92069,7,Fan Shop,33.67002106,-112.2470779,LATAM,Santiago de Cuba,Cuba,4
+PAYMENT,3,4,78.91,208.77,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Robert,5,Hudson,Home Office,PR,10 Crystal River Mall ,725,4,Apparel,18.35910416,-66.07791138,Africa,Lagos,Nigeria,5
+TRANSFER,3,2,51.16,106.59,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Robert,5,Hudson,Home Office,PR,10 Crystal River Mall ,725,4,Apparel,18.35910416,-66.07791138,USCA,Waco,Estados Unidos,5
+TRANSFER,3,2,53.55,254.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Robert,5,Hudson,Home Office,PR,10 Crystal River Mall ,725,7,Fan Shop,18.35910416,-66.07791138,USCA,Waco,Estados Unidos,5
+TRANSFER,3,2,47.92,145.21,Late delivery,1,11,Fitness Accessories,Caguas,Puerto Rico,Robert,5,Hudson,Home Office,PR,10 Crystal River Mall ,725,3,Footwear,18.35910416,-66.07791138,USCA,Waco,Estados Unidos,5
+TRANSFER,3,2,21.77,197.92,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Robert,5,Hudson,Home Office,PR,10 Crystal River Mall ,725,7,Fan Shop,18.35910416,-66.07791138,USCA,Waco,Estados Unidos,5
+TRANSFER,3,2,27.29,90.96,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Robert,5,Hudson,Home Office,PR,10 Crystal River Mall ,725,7,Fan Shop,18.35910416,-66.07791138,USCA,Waco,Estados Unidos,5
+DEBIT,4,4,29.25,97.49,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Robert,5,Hudson,Home Office,PR,10 Crystal River Mall ,725,4,Apparel,18.35910416,-66.07791138,Africa,Kinshasa,Rep£blica Democr tica del Congo,5
+TRANSFER,6,4,75.2,160,Late delivery,1,24,Women's Apparel,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,5,Golf,40.87154007,-74.12263489,LATAM,Canc£n,M‚xico,6
+TRANSFER,6,4,215.98,479.95,Late delivery,1,9,Cardio Equipment,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,3,Footwear,40.87154007,-74.12263489,LATAM,Canc£n,M‚xico,6
+TRANSFER,6,4,56.83,195.95,Late delivery,1,29,Shop By Sport,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,5,Golf,40.87154007,-74.12263489,LATAM,Canc£n,M‚xico,6
+PAYMENT,6,2,25.48,91,Late delivery,1,24,Women's Apparel,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,5,Golf,40.87154007,-74.12263489,USCA,Carrollton,Estados Unidos,6
+PAYMENT,6,2,143.99,299.97,Late delivery,1,9,Cardio Equipment,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,3,Footwear,40.87154007,-74.12263489,USCA,Carrollton,Estados Unidos,6
+PAYMENT,6,2,111.04,236.25,Late delivery,1,24,Women's Apparel,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,5,Golf,40.87154007,-74.12263489,USCA,Carrollton,Estados Unidos,6
+PAYMENT,3,4,19.07,116.99,Advance shipping,0,18,Men's Footwear,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,4,Apparel,40.87154007,-74.12263489,Pacific Asia,Baguio City,Filipinas,6
+PAYMENT,3,4,91.52,351.98,Advance shipping,0,45,Fishing,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,7,Fan Shop,40.87154007,-74.12263489,Pacific Asia,Baguio City,Filipinas,6
+PAYMENT,3,4,0,189.99,Advance shipping,0,48,Water Sports,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,7,Fan Shop,40.87154007,-74.12263489,Pacific Asia,Baguio City,Filipinas,6
+TRANSFER,3,2,46.97,161.97,Late delivery,1,17,Cleats,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,4,Apparel,40.87154007,-74.12263489,LATAM,Chihuahua,M‚xico,6
+TRANSFER,3,2,45.35,167.96,Late delivery,1,29,Shop By Sport,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,5,Golf,40.87154007,-74.12263489,LATAM,Chihuahua,M‚xico,6
+PAYMENT,3,4,-63.64,82.97,Advance shipping,0,46,Indoor/Outdoor Games,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,7,Fan Shop,40.87154007,-74.12263489,Pacific Asia,Baguio City,Filipinas,6
+PAYMENT,3,4,38.52,81.97,Advance shipping,0,46,Indoor/Outdoor Games,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,7,Fan Shop,40.87154007,-74.12263489,Pacific Asia,Baguio City,Filipinas,6
+TRANSFER,3,2,50.38,209.92,Late delivery,1,46,Indoor/Outdoor Games,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,7,Fan Shop,40.87154007,-74.12263489,LATAM,Chihuahua,M‚xico,6
+TRANSFER,6,4,36.96,127.45,Late delivery,1,46,Indoor/Outdoor Games,Passaic,EE. UU.,Mary,6,Smith,Consumer,NJ,3151 Sleepy Quail Promenade,7055,7,Fan Shop,40.87154007,-74.12263489,LATAM,Canc£n,M‚xico,6
+DEBIT,4,4,45.82,97.49,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,4,Apparel,18.35909462,-66.07995606,Europe,Rugby,Reino Unido,7
+DEBIT,3,4,42.25,129.99,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,4,Apparel,18.35909462,-66.07995606,Europe,Krefeld,Alemania,7
+DEBIT,3,4,97.49,299.98,Advance shipping,0,43,Camping & Hiking,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Europe,Krefeld,Alemania,7
+DEBIT,3,4,78.74,224.99,Advance shipping,0,43,Camping & Hiking,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Europe,Krefeld,Alemania,7
+DEBIT,3,4,7.43,99,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,5,Golf,18.35909462,-66.07995606,Europe,Krefeld,Alemania,7
+DEBIT,6,4,0,169.98,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,3,Footwear,18.35909462,-66.07995606,Pacific Asia,Manila,Filipinas,7
+DEBIT,6,4,34.13,136.5,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,5,Golf,18.35909462,-66.07995606,Pacific Asia,Manila,Filipinas,7
+DEBIT,4,4,-250.1,374.96,Shipping on time,0,9,Cardio Equipment,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,3,Footwear,18.35909462,-66.07995606,Europe,Rugby,Reino Unido,7
+DEBIT,6,4,153.43,464.95,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,3,Footwear,18.35909462,-66.07995606,Pacific Asia,Manila,Filipinas,7
+PAYMENT,3,4,54.28,113.09,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,4,Apparel,18.35909462,-66.07995606,Pacific Asia,Guangshui,China,7
+PAYMENT,5,4,49.72,110.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,4,Apparel,18.35909462,-66.07995606,Pacific Asia,Melbourne,Australia,7
+TRANSFER,5,4,2.79,232.41,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,USCA,Columbus,Estados Unidos,7
+TRANSFER,5,4,74.79,169.98,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,3,Footwear,18.35909462,-66.07995606,USCA,Columbus,Estados Unidos,7
+TRANSFER,5,4,1.12,37.49,Late delivery,1,40,Accessories,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,6,Outdoors,18.35909462,-66.07995606,USCA,Columbus,Estados Unidos,7
+PAYMENT,3,4,41.98,149.94,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Pacific Asia,Guangshui,China,7
+DEBIT,3,4,132.29,377.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Europe,Krefeld,Alemania,7
+TRANSFER,3,4,72.03,147,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,5,Golf,18.35909462,-66.07995606,LATAM,Tegucigalpa,Honduras,7
+TRANSFER,3,4,52.38,145.5,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,5,Golf,18.35909462,-66.07995606,LATAM,Tegucigalpa,Honduras,7
+PAYMENT,5,4,125.73,371.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Pacific Asia,Melbourne,Australia,7
+DEBIT,6,4,-17.4,347.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Pacific Asia,Manila,Filipinas,7
+PAYMENT,3,4,0,335.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Pacific Asia,Guangshui,China,7
+PAYMENT,3,4,165.99,331.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,Melissa,7,Wilcox,Corporate,PR,9453 High Concession,725,7,Fan Shop,18.35909462,-66.07995606,Pacific Asia,Guangshui,China,7
+DEBIT,3,4,24.53,52.19,Advance shipping,0,17,Cleats,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,4,Apparel,34.02827454,-118.2391357,Pacific Asia,Probolinggo,Indonesia,8
+DEBIT,3,4,109.43,287.98,Advance shipping,0,43,Camping & Hiking,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,7,Fan Shop,34.02827454,-118.2391357,Pacific Asia,Probolinggo,Indonesia,8
+TRANSFER,4,4,89.3,190,Shipping on time,0,24,Women's Apparel,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,5,Golf,34.02827454,-118.2391357,LATAM,Santo Domingo,Rep£blica Dominicana,8
+TRANSFER,2,4,180.58,419.96,Advance shipping,0,9,Cardio Equipment,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,3,Footwear,34.02827454,-118.2391357,Europe,Paris,Francia,8
+DEBIT,3,4,11.88,197.98,Advance shipping,0,9,Cardio Equipment,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,3,Footwear,34.02827454,-118.2391357,Pacific Asia,Probolinggo,Indonesia,8
+DEBIT,4,4,18.41,40.02,Shipping on time,0,41,Trade-In,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,6,Outdoors,34.02827454,-118.2391357,Pacific Asia,Yakarta,Indonesia,8
+DEBIT,3,4,20.16,126,Advance shipping,0,24,Women's Apparel,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,5,Golf,34.02827454,-118.2391357,Pacific Asia,Probolinggo,Indonesia,8
+DEBIT,4,4,89.24,194,Shipping on time,0,24,Women's Apparel,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,5,Golf,34.02827454,-118.2391357,Pacific Asia,Yakarta,Indonesia,8
+CASH,3,4,30,200,Advance shipping,0,24,Women's Apparel,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,5,Golf,34.02827454,-118.2391357,LATAM,Mosquera,Colombia,8
+DEBIT,4,4,4.18,104.45,Shipping on time,0,41,Trade-In,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,6,Outdoors,34.02827454,-118.2391357,Pacific Asia,Yakarta,Indonesia,8
+PAYMENT,2,1,120.11,272.98,Late delivery,1,43,Camping & Hiking,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,7,Fan Shop,34.02827454,-118.2391357,Europe,Edinburgh,Reino Unido,8
+PAYMENT,5,2,63.45,135,Late delivery,1,24,Women's Apparel,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,5,Golf,34.02827454,-118.2391357,Europe,Marseille,Francia,8
+TRANSFER,3,2,44.8,159.99,Late delivery,1,48,Water Sports,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,7,Fan Shop,34.02827454,-118.2391357,Europe,Saint-Denis,Francia,8
+TRANSFER,3,2,-43.76,232.76,Late delivery,1,17,Cleats,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,4,Apparel,34.02827454,-118.2391357,Europe,Saint-Denis,Francia,8
+TRANSFER,4,4,25.05,52.19,Shipping on time,0,17,Cleats,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,4,Apparel,34.02827454,-118.2391357,LATAM,Santo Domingo,Rep£blica Dominicana,8
+DEBIT,3,4,45,179.99,Advance shipping,0,48,Water Sports,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,7,Fan Shop,34.02827454,-118.2391357,Pacific Asia,Probolinggo,Indonesia,8
+CASH,3,4,-391.72,237.41,Advance shipping,0,46,Indoor/Outdoor Games,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,7,Fan Shop,34.02827454,-118.2391357,LATAM,Mosquera,Colombia,8
+CASH,3,4,37.83,130.45,Advance shipping,0,46,Indoor/Outdoor Games,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,7,Fan Shop,34.02827454,-118.2391357,LATAM,Mosquera,Colombia,8
+CASH,3,4,51.46,197.92,Advance shipping,0,46,Indoor/Outdoor Games,Lawrence,EE. UU.,Megan,8,Smith,Corporate,MA,3047 Foggy Forest Plaza,1841,7,Fan Shop,34.02827454,-118.2391357,LATAM,Mosquera,Colombia,8
+DEBIT,4,2,8.73,24.24,Late delivery,1,40,Accessories,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,6,Outdoors,18.02528,-66.61306763,Europe,Franconville,Francia,9
+DEBIT,4,2,3.4,169.96,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,5,Golf,18.02528,-66.61306763,Europe,Franconville,Francia,9
+PAYMENT,1,0,54,149.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,7,Fan Shop,18.02528,-66.61306763,Europe,Rome,Italia,9
+PAYMENT,1,0,-441.74,284.99,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,4,Apparel,18.02528,-66.61306763,Europe,Rome,Italia,9
+PAYMENT,4,2,65.25,173.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,7,Fan Shop,18.02528,-66.61306763,Europe,Estocolmo,Suecia,9
+PAYMENT,1,0,184.31,383.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,7,Fan Shop,18.02528,-66.61306763,Europe,Rome,Italia,9
+PAYMENT,2,1,128.51,377.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,7,Fan Shop,18.02528,-66.61306763,Europe,Edinburgh,Reino Unido,9
+PAYMENT,4,2,88.21,260.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,7,Fan Shop,18.02528,-66.61306763,Europe,Estocolmo,Suecia,9
+PAYMENT,4,2,16.3,100,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,5,Golf,18.02528,-66.61306763,Europe,Estocolmo,Suecia,9
+PAYMENT,4,2,-453.52,283.45,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,4,Apparel,18.02528,-66.61306763,Europe,Estocolmo,Suecia,9
+CASH,6,2,188.15,391.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,7,Fan Shop,18.02528,-66.61306763,LATAM,Tipitapa,Nicaragua,9
+PAYMENT,4,2,-143.44,81.97,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,7,Fan Shop,18.02528,-66.61306763,Europe,Estocolmo,Suecia,9
+CASH,6,2,-52.65,116.99,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,4,Apparel,18.02528,-66.61306763,LATAM,Tipitapa,Nicaragua,9
+CASH,6,2,-29.39,146.96,Late delivery,1,3,Baseball & Softball,Caguas,Puerto Rico,Mary,9,Perez,Consumer,PR,3616 Quaking Street,725,2,Fitness,18.02528,-66.61306763,LATAM,Tipitapa,Nicaragua,9
+DEBIT,5,4,49.18,145.5,Late delivery,1,24,Women's Apparel,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,5,Golf,38.47135925,-77.41419983,Africa,Lagos,Nigeria,10
+DEBIT,5,4,59.49,176,Late delivery,1,24,Women's Apparel,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,5,Golf,38.47135925,-77.41419983,Africa,Lagos,Nigeria,10
+DEBIT,5,4,-269.7,174,Late delivery,1,24,Women's Apparel,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,5,Golf,38.47135925,-77.41419983,Africa,Lagos,Nigeria,10
+DEBIT,5,4,81.11,239.96,Late delivery,1,17,Cleats,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,4,Apparel,38.47135925,-77.41419983,Africa,Lagos,Nigeria,10
+DEBIT,4,4,20.34,116.2,Shipping on time,0,40,Accessories,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,6,Outdoors,38.47135925,-77.41419983,LATAM,Guasave,M‚xico,10
+DEBIT,4,4,0,37.99,Shipping on time,0,29,Shop By Sport,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,5,Golf,38.47135925,-77.41419983,LATAM,Guasave,M‚xico,10
+DEBIT,4,4,-39.41,145.44,Shipping on time,0,46,Indoor/Outdoor Games,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,7,Fan Shop,38.47135925,-77.41419983,LATAM,Guasave,M‚xico,10
+DEBIT,4,4,-52.23,94.96,Shipping on time,0,46,Indoor/Outdoor Games,Stafford,EE. UU.,Melissa,10,Smith,Corporate,VA,8598 Harvest Beacon Plaza,22554,7,Fan Shop,38.47135925,-77.41419983,LATAM,Guasave,M‚xico,10
+DEBIT,2,4,45.36,94.49,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,3,Footwear,18.02537537,-66.61508179,LATAM,Mexico City,M‚xico,11
+DEBIT,2,4,-3.95,103.99,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,4,Apparel,18.02537537,-66.61508179,LATAM,Mexico City,M‚xico,11
+DEBIT,2,4,-19.11,109.18,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,4,Apparel,18.02537537,-66.61508179,Europe,Ajaccio,Francia,11
+DEBIT,2,4,51.02,188.95,Advance shipping,0,35,Golf Gloves,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,6,Outdoors,18.02537537,-66.61508179,Europe,Ajaccio,Francia,11
+DEBIT,2,4,62.39,191.97,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,4,Apparel,18.02537537,-66.61508179,Europe,Ajaccio,Francia,11
+DEBIT,2,4,113.98,242.5,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,5,Golf,18.02537537,-66.61508179,LATAM,Mexico City,M‚xico,11
+PAYMENT,3,2,41.32,193.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,7,Fan Shop,18.02537537,-66.61508179,Europe,Viena,Austria,11
+PAYMENT,3,2,30.79,98.38,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,4,Apparel,18.02537537,-66.61508179,Europe,Viena,Austria,11
+DEBIT,2,4,-45.1,239.9,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,7,Fan Shop,18.02537537,-66.61508179,Europe,Ajaccio,Francia,11
+CASH,6,4,40.68,359.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,7,Fan Shop,18.02537537,-66.61508179,Europe,Puteaux,Francia,11
+CASH,6,4,5.58,89.99,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,4,Apparel,18.02537537,-66.61508179,Europe,Puteaux,Francia,11
+CASH,6,4,-28.04,245.96,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,11,Huffman,Consumer,PR,3169 Stony Woods,725,4,Apparel,18.02537537,-66.61508179,Europe,Puteaux,Francia,11
+TRANSFER,2,4,102.95,395.96,Advance shipping,0,9,Cardio Equipment,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,3,Footwear,25.91337204,-97.44564819,Africa,Soweto,SudAfrica,12
+TRANSFER,2,4,9,449.96,Advance shipping,0,9,Cardio Equipment,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,3,Footwear,25.91337204,-97.44564819,Africa,Soweto,SudAfrica,12
+CASH,2,1,78.66,167.37,Late delivery,1,17,Cleats,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,4,Apparel,25.91337204,-97.44564819,LATAM,Monterrey,M‚xico,12
+PAYMENT,2,1,129.99,399.98,Late delivery,1,45,Fishing,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Pacific Asia,Guangzhou,China,12
+PAYMENT,2,1,88.72,272.98,Late delivery,1,43,Camping & Hiking,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Pacific Asia,Guangzhou,China,12
+PAYMENT,2,1,121.42,263.96,Late delivery,1,17,Cleats,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,4,Apparel,25.91337204,-97.44564819,Pacific Asia,Guangzhou,China,12
+PAYMENT,2,1,61.69,169.96,Late delivery,1,29,Shop By Sport,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,5,Golf,25.91337204,-97.44564819,Pacific Asia,Guangzhou,China,12
+PAYMENT,2,2,-130,50,Shipping on time,0,24,Women's Apparel,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,5,Golf,25.91337204,-97.44564819,LATAM,Santa Catarina,M‚xico,12
+PAYMENT,2,2,6.5,129.99,Shipping on time,0,18,Men's Footwear,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,4,Apparel,25.91337204,-97.44564819,USCA,Los Angeles,Estados Unidos,12
+PAYMENT,2,2,25.35,97.49,Shipping on time,0,18,Men's Footwear,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,4,Apparel,25.91337204,-97.44564819,USCA,Los Angeles,Estados Unidos,12
+PAYMENT,2,2,22.6,199.98,Shipping on time,0,9,Cardio Equipment,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,3,Footwear,25.91337204,-97.44564819,Africa,Lagos,Nigeria,12
+PAYMENT,2,2,69,150,Shipping on time,0,24,Women's Apparel,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,5,Golf,25.91337204,-97.44564819,Africa,Lagos,Nigeria,12
+PAYMENT,2,2,49.69,147,Shipping on time,0,24,Women's Apparel,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,5,Golf,25.91337204,-97.44564819,USCA,Los Angeles,Estados Unidos,12
+PAYMENT,2,2,0,83.97,Shipping on time,0,40,Accessories,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,6,Outdoors,25.91337204,-97.44564819,Africa,Lagos,Nigeria,12
+PAYMENT,2,2,111.65,237.56,Shipping on time,0,17,Cleats,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,4,Apparel,25.91337204,-97.44564819,USCA,Los Angeles,Estados Unidos,12
+PAYMENT,3,4,-196.01,296.98,Advance shipping,0,43,Camping & Hiking,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Pacific Asia,Nowra,Australia,12
+DEBIT,5,2,58.96,122.84,Late delivery,1,18,Men's Footwear,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,4,Apparel,25.91337204,-97.44564819,LATAM,San Luis Potos¡,M‚xico,12
+CASH,2,1,-4.75,189.99,Late delivery,1,48,Water Sports,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,LATAM,Monterrey,M‚xico,12
+PAYMENT,2,2,9.9,197.99,Shipping on time,0,48,Water Sports,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Africa,Lagos,Nigeria,12
+PAYMENT,2,2,61.34,195.99,Shipping on time,0,48,Water Sports,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Africa,Lagos,Nigeria,12
+TRANSFER,2,4,18.08,159.99,Advance shipping,0,48,Water Sports,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Africa,Soweto,SudAfrica,12
+PAYMENT,2,2,27.9,185.99,Shipping on time,0,48,Water Sports,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,USCA,Los Angeles,Estados Unidos,12
+TRANSFER,2,4,61.41,165.98,Advance shipping,0,9,Cardio Equipment,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,3,Footwear,25.91337204,-97.44564819,Africa,Soweto,SudAfrica,12
+PAYMENT,2,1,-37.35,165.99,Late delivery,1,48,Water Sports,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Pacific Asia,Guangzhou,China,12
+CASH,2,1,5.42,47.98,Late delivery,1,46,Indoor/Outdoor Games,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,LATAM,Monterrey,M‚xico,12
+TRANSFER,2,4,24.35,83.97,Advance shipping,0,46,Indoor/Outdoor Games,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,Africa,Soweto,SudAfrica,12
+PAYMENT,2,2,27.99,159.94,Shipping on time,0,46,Indoor/Outdoor Games,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,LATAM,Santa Catarina,M‚xico,12
+CASH,2,1,94.64,363.98,Late delivery,1,45,Fishing,San Antonio,EE. UU.,Christopher,12,Smith,Corporate,TX,5594 Jagged Embers By-pass,78227,7,Fan Shop,25.91337204,-97.44564819,LATAM,Monterrey,M‚xico,12
+DEBIT,4,4,40.13,123.49,Shipping on time,0,30,Men's Golf Clubs,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,6,Outdoors,18.35908699,-66.07793427,Europe,Mulhouse,Francia,13
+DEBIT,4,4,32.61,130.45,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,7,Fan Shop,18.35908699,-66.07793427,Europe,Mulhouse,Francia,13
+DEBIT,6,4,32.59,199.92,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,7,Fan Shop,18.35908699,-66.07793427,Pacific Asia,Weifang,China,13
+DEBIT,5,2,11.31,43.5,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,5,Golf,18.35908699,-66.07793427,LATAM,Antiguo Cuscatl n,El Salvador,13
+DEBIT,5,2,5.5,12.79,Late delivery,1,41,Trade-In,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,6,Outdoors,18.35908699,-66.07793427,LATAM,Antiguo Cuscatl n,El Salvador,13
+DEBIT,5,2,82.49,299.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,7,Fan Shop,18.35908699,-66.07793427,LATAM,Antiguo Cuscatl n,El Salvador,13
+DEBIT,5,2,83.15,296.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,7,Fan Shop,18.35908699,-66.07793427,LATAM,Antiguo Cuscatl n,El Salvador,13
+DEBIT,5,2,147.59,327.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,7,Fan Shop,18.35908699,-66.07793427,LATAM,Antiguo Cuscatl n,El Salvador,13
+DEBIT,3,2,35.8,114.39,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,4,Apparel,18.35908699,-66.07793427,USCA,Chicago,Estados Unidos,13
+DEBIT,3,2,89.24,254.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,7,Fan Shop,18.35908699,-66.07793427,USCA,Chicago,Estados Unidos,13
+DEBIT,3,2,62.93,170.07,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,4,Apparel,18.35908699,-66.07793427,USCA,Chicago,Estados Unidos,13
+DEBIT,3,2,108.39,399.96,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,3,Footwear,18.35908699,-66.07793427,USCA,Chicago,Estados Unidos,13
+DEBIT,3,2,102.38,227.5,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,5,Golf,18.35908699,-66.07793427,USCA,Chicago,Estados Unidos,13
+DEBIT,4,4,2.16,53.99,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,4,Apparel,18.35908699,-66.07793427,Europe,Mulhouse,Francia,13
+DEBIT,4,4,15.38,45.5,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,5,Golf,18.35908699,-66.07793427,Europe,Mulhouse,Francia,13
+DEBIT,4,4,30.61,113.38,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Mary,13,Baldwin,Home Office,PR,7922 Iron Oak Gardens,725,4,Apparel,18.35908699,-66.07793427,Europe,Mulhouse,Francia,13
+DEBIT,2,4,6.3,50.39,Advance shipping,0,17,Cleats,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,4,Apparel,33.98892212,-118.0814438,Pacific Asia,Kuala Lumpur,Malasia,14
+DEBIT,4,4,24,319.97,Shipping on time,0,9,Cardio Equipment,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,3,Footwear,33.98892212,-118.0814438,USCA,Morgan Hill,Estados Unidos,14
+PAYMENT,0,0,-14.15,50,Shipping on time,0,24,Women's Apparel,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,5,Golf,33.98892212,-118.0814438,Europe,Dudley,Reino Unido,14
+DEBIT,2,4,-34.49,44.97,Advance shipping,0,36,Golf Balls,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,6,Outdoors,33.98892212,-118.0814438,Pacific Asia,Kuala Lumpur,Malasia,14
+DEBIT,4,2,22.68,283.48,Late delivery,1,43,Camping & Hiking,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,7,Fan Shop,33.98892212,-118.0814438,LATAM,Riberalta,Bolivia,14
+DEBIT,4,2,22.37,198,Late delivery,1,24,Women's Apparel,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,5,Golf,33.98892212,-118.0814438,LATAM,Riberalta,Bolivia,14
+TRANSFER,4,2,58.8,167.99,Late delivery,1,48,Water Sports,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,7,Fan Shop,33.98892212,-118.0814438,LATAM,Cuscatancingo,El Salvador,14
+TRANSFER,4,2,35.49,109.19,Late delivery,1,18,Men's Footwear,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,4,Apparel,33.98892212,-118.0814438,LATAM,Cuscatancingo,El Salvador,14
+TRANSFER,4,2,39.16,107.89,Late delivery,1,18,Men's Footwear,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,4,Apparel,33.98892212,-118.0814438,LATAM,Cuscatancingo,El Salvador,14
+DEBIT,2,4,10.58,167.99,Advance shipping,0,48,Water Sports,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,7,Fan Shop,33.98892212,-118.0814438,Pacific Asia,Kuala Lumpur,Malasia,14
+TRANSFER,3,4,-24.55,47.48,Advance shipping,0,46,Indoor/Outdoor Games,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,7,Fan Shop,33.98892212,-118.0814438,Europe,Oosterhout,Pa¡ses Bajos,14
+CASH,3,4,-161.2,219.91,Advance shipping,0,46,Indoor/Outdoor Games,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,7,Fan Shop,33.98892212,-118.0814438,Pacific Asia,Se£l,Corea del Sur,14
+DEBIT,2,4,142.29,391.98,Advance shipping,0,45,Fishing,Pico Rivera,EE. UU.,Katherine,14,Smith,Corporate,CA,5666 Hazy Pony Square,90660,7,Fan Shop,33.98892212,-118.0814438,Pacific Asia,Kuala Lumpur,Malasia,14
+DEBIT,2,2,-11.76,58.79,Shipping on time,0,17,Cleats,Fontana,EE. UU.,Jane,15,Luna,Corporate,CA,673 Burning Glen,92336,4,Apparel,34.11307144,-117.508728,Pacific Asia,Konya,Turqu¡a,15
+DEBIT,2,2,62.42,127.39,Shipping on time,0,18,Men's Footwear,Fontana,EE. UU.,Jane,15,Luna,Corporate,CA,673 Burning Glen,92336,4,Apparel,34.11307144,-117.508728,Pacific Asia,Konya,Turqu¡a,15
+DEBIT,2,2,18.8,40,Shipping on time,0,24,Women's Apparel,Fontana,EE. UU.,Jane,15,Luna,Corporate,CA,673 Burning Glen,92336,5,Golf,34.11307144,-117.508728,Pacific Asia,Konya,Turqu¡a,15
+CASH,2,2,9.46,36.39,Shipping on time,0,29,Shop By Sport,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,5,Golf,18.29652023,-66.04867554,LATAM,Soacha,Colombia,16
+DEBIT,1,0,25.77,97.99,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,3,Footwear,18.29652023,-66.04867554,Europe,Rotterdam,Pa¡ses Bajos,16
+DEBIT,1,0,35.62,284.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,Europe,Rotterdam,Pa¡ses Bajos,16
+DEBIT,1,0,42.72,136.5,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,5,Golf,18.29652023,-66.04867554,Europe,Rotterdam,Pa¡ses Bajos,16
+DEBIT,5,4,6.44,109.19,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,4,Apparel,18.29652023,-66.04867554,Europe,Rybinsk,Rusia,16
+DEBIT,1,0,-12.8,159.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,Europe,Rotterdam,Pa¡ses Bajos,16
+DEBIT,5,4,49,98,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,5,Golf,18.29652023,-66.04867554,Europe,Rybinsk,Rusia,16
+DEBIT,1,0,16.97,48.48,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,Europe,Rotterdam,Pa¡ses Bajos,16
+PAYMENT,2,4,21.6,45,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,5,Golf,18.29652023,-66.04867554,Europe,Martigues,Francia,16
+PAYMENT,2,4,88.82,188.98,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,3,Footwear,18.29652023,-66.04867554,Europe,Martigues,Francia,16
+PAYMENT,2,4,118.83,242.5,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,5,Golf,18.29652023,-66.04867554,Europe,Martigues,Francia,16
+TRANSFER,2,4,46.04,97.96,Shipping canceled,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,Africa,Pretoria,SudAfrica,16
+DEBIT,3,4,11.6,39.98,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,USCA,Rochester,Estados Unidos,16
+PAYMENT,2,4,74.88,191.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,Europe,Martigues,Francia,16
+PAYMENT,2,4,93.1,189.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,Europe,Martigues,Francia,16
+DEBIT,5,4,5.69,45.48,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,7,Fan Shop,18.29652023,-66.04867554,Europe,Rybinsk,Rusia,16
+TRANSFER,2,4,75.16,156.57,Shipping canceled,0,17,Cleats,Caguas,Puerto Rico,Tiffany,16,Smith,Corporate,PR,6651 Iron Port,725,4,Apparel,18.29652023,-66.04867554,Africa,Pretoria,SudAfrica,16
+DEBIT,5,4,2.13,24.5,Late delivery,1,7,Hockey,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,2,Fitness,42.20061112,-83.24320984,LATAM,Sorocaba,Brasil,17
+CASH,4,4,82.21,283.48,Shipping on time,0,43,Camping & Hiking,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,M‚rida,M‚xico,17
+CASH,4,4,73.37,278.98,Shipping on time,0,43,Camping & Hiking,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,M‚rida,M‚xico,17
+CASH,4,4,54.6,272.98,Shipping on time,0,43,Camping & Hiking,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,M‚rida,M‚xico,17
+CASH,4,4,-195.57,254.98,Shipping on time,0,43,Camping & Hiking,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,Pacific Asia,Porirua,Nueva Zelanda,17
+CASH,4,4,32,116.37,Shipping on time,0,29,Shop By Sport,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,5,Golf,42.20061112,-83.24320984,Pacific Asia,Porirua,Nueva Zelanda,17
+CASH,4,4,33,120,Shipping on time,0,24,Women's Apparel,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,5,Golf,42.20061112,-83.24320984,Pacific Asia,Porirua,Nueva Zelanda,17
+CASH,4,4,25.29,155.16,Shipping on time,0,29,Shop By Sport,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,5,Golf,42.20061112,-83.24320984,LATAM,M‚rida,M‚xico,17
+DEBIT,5,4,-13.49,269.75,Late delivery,1,33,Golf Shoes,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,6,Outdoors,42.20061112,-83.24320984,LATAM,Sorocaba,Brasil,17
+DEBIT,4,4,92.62,284.98,Shipping on time,0,43,Camping & Hiking,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,Europe,Milan,Italia,17
+DEBIT,5,4,9.36,124.79,Late delivery,1,18,Men's Footwear,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,4,Apparel,42.20061112,-83.24320984,LATAM,Sorocaba,Brasil,17
+DEBIT,5,4,-7.76,387.98,Late delivery,1,45,Fishing,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,Potos¡,Bolivia,17
+DEBIT,5,4,33.93,260.98,Late delivery,1,43,Camping & Hiking,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,Potos¡,Bolivia,17
+DEBIT,4,4,35.64,197.98,Shipping on time,0,9,Cardio Equipment,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,3,Footwear,42.20061112,-83.24320984,Europe,Milan,Italia,17
+CASH,4,4,56.23,149.94,Shipping on time,0,46,Indoor/Outdoor Games,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,M‚rida,M‚xico,17
+DEBIT,5,4,110.17,351.98,Late delivery,1,45,Fishing,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,Sorocaba,Brasil,17
+DEBIT,5,4,117.62,347.98,Late delivery,1,45,Fishing,Taylor,EE. UU.,Mary,17,Robinson,Consumer,MI,1325 Noble Pike,48180,7,Fan Shop,42.20061112,-83.24320984,LATAM,Sorocaba,Brasil,17
+CASH,3,4,62.42,127.39,Advance shipping,0,18,Men's Footwear,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,4,Apparel,38.00925446,-122.1187134,LATAM,San Salvador,El Salvador,18
+CASH,3,4,58,126.09,Advance shipping,0,18,Men's Footwear,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,4,Apparel,38.00925446,-122.1187134,LATAM,San Salvador,El Salvador,18
+CASH,3,4,-60.68,254.97,Advance shipping,0,9,Cardio Equipment,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,3,Footwear,38.00925446,-122.1187134,LATAM,San Salvador,El Salvador,18
+CASH,3,4,30.88,118.77,Advance shipping,0,29,Shop By Sport,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,5,Golf,38.00925446,-122.1187134,LATAM,San Salvador,El Salvador,18
+CASH,3,4,155.18,387.96,Advance shipping,0,9,Cardio Equipment,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,3,Footwear,38.00925446,-122.1187134,LATAM,San Salvador,El Salvador,18
+DEBIT,2,1,58.04,123.49,Late delivery,1,18,Men's Footwear,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,4,Apparel,38.00925446,-122.1187134,Pacific Asia,Nom Pen,Camboya,18
+DEBIT,2,1,38.44,118.29,Late delivery,1,18,Men's Footwear,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,4,Apparel,38.00925446,-122.1187134,Pacific Asia,Kawagoe,Jap¢n,18
+DEBIT,2,1,28.66,454.95,Late delivery,1,9,Cardio Equipment,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,3,Footwear,38.00925446,-122.1187134,Pacific Asia,Nom Pen,Camboya,18
+DEBIT,3,2,54.28,113.09,Late delivery,1,18,Men's Footwear,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,4,Apparel,38.00925446,-122.1187134,LATAM,Chimaltenango,Guatemala,18
+DEBIT,2,2,102.05,283.48,Shipping on time,0,43,Camping & Hiking,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,7,Fan Shop,38.00925446,-122.1187134,Pacific Asia,Izmir,Turqu¡a,18
+TRANSFER,5,4,-42.71,377.98,Shipping canceled,0,45,Fishing,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,7,Fan Shop,38.00925446,-122.1187134,Europe,London,Reino Unido,18
+DEBIT,2,1,41.3,131.95,Late delivery,1,46,Indoor/Outdoor Games,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,7,Fan Shop,38.00925446,-122.1187134,Pacific Asia,Kawagoe,Jap¢n,18
+TRANSFER,5,4,-69.8,91,Shipping canceled,0,24,Women's Apparel,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,5,Golf,38.00925446,-122.1187134,Europe,London,Reino Unido,18
+TRANSFER,5,4,-142.6,185.93,Shipping canceled,0,46,Indoor/Outdoor Games,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,7,Fan Shop,38.00925446,-122.1187134,Europe,London,Reino Unido,18
+DEBIT,2,1,93.6,359.98,Late delivery,1,45,Fishing,Martinez,EE. UU.,Robert,18,Smith,Consumer,CA,2734 Hazy Butterfly Circle,94553,7,Fan Shop,38.00925446,-122.1187134,Pacific Asia,Kawagoe,Jap¢n,18
+PAYMENT,6,4,6.17,123.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,Europe,Vilna,Lituania,19
+PAYMENT,6,4,47.62,113.38,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,Europe,Vilna,Lituania,19
+PAYMENT,6,4,74.69,149.38,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,Europe,Vilna,Lituania,19
+PAYMENT,6,4,-5.66,95.98,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,5,Golf,18.35910606,-66.07789612,Europe,Vilna,Lituania,19
+PAYMENT,6,4,0,247.5,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,5,Golf,18.35910606,-66.07789612,Europe,Vilna,Lituania,19
+CASH,0,0,64.22,189.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,7,Fan Shop,18.35910606,-66.07789612,USCA,Philadelphia,Estados Unidos,19
+CASH,3,2,17.49,49.98,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,7,Fan Shop,18.35910606,-66.07789612,LATAM,Ju rez,M‚xico,19
+CASH,0,0,38.67,110.49,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,USCA,Philadelphia,Estados Unidos,19
+CASH,0,0,-7.5,105.58,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,USCA,Philadelphia,Estados Unidos,19
+CASH,3,2,14.87,114.39,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,LATAM,Ju rez,M‚xico,19
+CASH,3,2,23.61,49.19,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,LATAM,Ju rez,M‚xico,19
+CASH,3,2,87.99,351.96,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,3,Footwear,18.35910606,-66.07789612,LATAM,Ju rez,M‚xico,19
+CASH,3,2,35.6,200,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,5,Golf,18.35910606,-66.07789612,LATAM,Ju rez,M‚xico,19
+CASH,3,4,-34.64,80,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,5,Golf,18.35910606,-66.07789612,Europe,Cologne,Alemania,19
+CASH,3,4,82.04,174.56,Advance shipping,0,13,Electronics,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,3,Footwear,18.35910606,-66.07789612,Europe,Cologne,Alemania,19
+CASH,3,4,17.82,198,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,5,Golf,18.35910606,-66.07789612,Europe,Cologne,Alemania,19
+DEBIT,2,2,43.06,127.39,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,Europe,Naples,Italia,19
+DEBIT,2,2,26.4,263.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,7,Fan Shop,18.35910606,-66.07789612,Europe,Naples,Italia,19
+DEBIT,2,2,7.05,94.06,Shipping on time,0,37,Electronics,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,6,Outdoors,18.35910606,-66.07789612,Europe,Naples,Italia,19
+DEBIT,4,4,35.81,123.49,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,LATAM,Matanzas,Cuba,19
+DEBIT,4,4,91,363.98,Shipping on time,0,45,Fishing,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,7,Fan Shop,18.35910606,-66.07789612,LATAM,Matanzas,Cuba,19
+DEBIT,4,4,50.9,130.5,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,5,Golf,18.35910606,-66.07789612,LATAM,Matanzas,Cuba,19
+DEBIT,6,4,-24.62,143.98,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,4,Apparel,18.35910606,-66.07789612,Pacific Asia,Devonport,Australia,19
+TRANSFER,5,2,109.75,391.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Stephanie,19,Mitchell,Home Office,PR,3543 Red Treasure Bay,725,7,Fan Shop,18.35910606,-66.07789612,USCA,Columbus,Estados Unidos,19
+DEBIT,5,4,67.05,254.96,Late delivery,1,17,Cleats,West New York,EE. UU.,Mary,20,Ellis,Consumer,NJ,4703 Old Route,7093,4,Apparel,40.7571907,-74.02506256,Europe,Crewe,Reino Unido,20
+DEBIT,2,4,-342.97,489.95,Advance shipping,0,9,Cardio Equipment,West New York,EE. UU.,Mary,20,Ellis,Consumer,NJ,4703 Old Route,7093,3,Footwear,40.7571907,-74.02506256,LATAM,Le¢n,M‚xico,20
+TRANSFER,5,4,-207.87,296.95,Late delivery,1,17,Cleats,West New York,EE. UU.,Mary,20,Ellis,Consumer,NJ,4703 Old Route,7093,4,Apparel,40.7571907,-74.02506256,LATAM,Tegucigalpa,Honduras,20
+PAYMENT,4,2,-214.35,126.09,Late delivery,1,18,Men's Footwear,West New York,EE. UU.,Mary,20,Ellis,Consumer,NJ,4703 Old Route,7093,4,Apparel,40.7571907,-74.02506256,Pacific Asia,Yakarta,Indonesia,20
+PAYMENT,4,2,-80.62,100.77,Late delivery,1,29,Shop By Sport,West New York,EE. UU.,Mary,20,Ellis,Consumer,NJ,4703 Old Route,7093,5,Golf,40.7571907,-74.02506256,Pacific Asia,Yakarta,Indonesia,20
+DEBIT,2,4,21.12,239.96,Advance shipping,0,17,Cleats,West New York,EE. UU.,Mary,20,Ellis,Consumer,NJ,4703 Old Route,7093,4,Apparel,40.7571907,-74.02506256,LATAM,Le¢n,M‚xico,20
+DEBIT,2,4,46.8,124.79,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,4,Apparel,18.02520371,-66.61289215,Europe,Solingen,Alemania,21
+DEBIT,2,4,60.9,347.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,7,Fan Shop,18.02520371,-66.61289215,Europe,Solingen,Alemania,21
+DEBIT,2,4,95,190,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,5,Golf,18.02520371,-66.61289215,Europe,Solingen,Alemania,21
+DEBIT,2,4,39.98,123,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,3,Footwear,18.02520371,-66.61289215,Europe,Solingen,Alemania,21
+PAYMENT,2,1,4.42,110.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,4,Apparel,18.02520371,-66.61289215,Pacific Asia,Foshan,China,21
+PAYMENT,2,1,129.34,263.96,Late delivery,1,17,Cleats,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,4,Apparel,18.02520371,-66.61289215,Pacific Asia,Foshan,China,21
+PAYMENT,2,1,70.43,225,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,5,Golf,18.02520371,-66.61289215,Pacific Asia,Foshan,China,21
+TRANSFER,2,1,49.14,188.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,7,Fan Shop,18.02520371,-66.61289215,USCA,New York City,Estados Unidos,21
+DEBIT,2,4,45.92,163.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,7,Fan Shop,18.02520371,-66.61289215,Europe,Solingen,Alemania,21
+TRANSFER,3,2,40.83,130.45,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,7,Fan Shop,18.02520371,-66.61289215,LATAM,Cuajimalpa,M‚xico,21
+PAYMENT,2,1,39.36,112.46,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,7,Fan Shop,18.02520371,-66.61289215,Pacific Asia,Foshan,China,21
+TRANSFER,2,1,33.12,118.29,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,4,Apparel,18.02520371,-66.61289215,USCA,New York City,Estados Unidos,21
+TRANSFER,2,1,13.11,50.43,Late delivery,1,37,Electronics,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,6,Outdoors,18.02520371,-66.61289215,USCA,New York City,Estados Unidos,21
+TRANSFER,2,1,33.74,74.97,Late delivery,1,40,Accessories,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,6,Outdoors,18.02520371,-66.61289215,USCA,New York City,Estados Unidos,21
+TRANSFER,3,2,28.8,57.59,Late delivery,1,17,Cleats,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,4,Apparel,18.02520371,-66.61289215,LATAM,Cuajimalpa,M‚xico,21
+TRANSFER,3,2,42.58,118.29,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,4,Apparel,18.02520371,-66.61289215,LATAM,Cuajimalpa,M‚xico,21
+TRANSFER,3,2,42.12,116.99,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,William,21,Zimmerman,Consumer,PR,3323 Old Willow Mall ,725,4,Apparel,18.02520371,-66.61289215,LATAM,Cuajimalpa,M‚xico,21
+TRANSFER,2,4,49.52,150.07,Advance shipping,0,12,Boxing & MMA,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,3,Footwear,40.80894089,-74.0328598,Pacific Asia,Ninghai,China,22
+TRANSFER,2,4,125.27,260.97,Advance shipping,0,9,Cardio Equipment,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,3,Footwear,40.80894089,-74.0328598,Pacific Asia,Ninghai,China,22
+CASH,2,1,53.66,124.79,Late delivery,1,18,Men's Footwear,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,4,Apparel,40.80894089,-74.0328598,LATAM,San Juan de la Maguana,Rep£blica Dominicana,22
+CASH,2,1,1.52,37.99,Late delivery,1,29,Shop By Sport,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,5,Golf,40.80894089,-74.0328598,LATAM,San Juan de la Maguana,Rep£blica Dominicana,22
+CASH,2,1,138.91,283.48,Late delivery,1,43,Camping & Hiking,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,7,Fan Shop,40.80894089,-74.0328598,LATAM,San Juan de la Maguana,Rep£blica Dominicana,22
+CASH,2,1,62.57,145.5,Late delivery,1,24,Women's Apparel,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,5,Golf,40.80894089,-74.0328598,LATAM,San Juan de la Maguana,Rep£blica Dominicana,22
+CASH,2,1,69.12,144,Late delivery,1,24,Women's Apparel,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,5,Golf,40.80894089,-74.0328598,LATAM,San Juan de la Maguana,Rep£blica Dominicana,22
+DEBIT,5,2,11.33,37.76,Late delivery,1,35,Golf Gloves,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,6,Outdoors,40.80894089,-74.0328598,Europe,Paris,Francia,22
+PAYMENT,4,4,7.8,103.99,Shipping on time,0,18,Men's Footwear,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,4,Apparel,40.80894089,-74.0328598,Africa,Kinshasa,Rep£blica Democr tica del Congo,22
+PAYMENT,4,4,44.64,93,Shipping on time,0,24,Women's Apparel,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,5,Golf,40.80894089,-74.0328598,Africa,Kinshasa,Rep£blica Democr tica del Congo,22
+DEBIT,6,2,86.4,192,Late delivery,1,24,Women's Apparel,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,5,Golf,40.80894089,-74.0328598,Europe,Katowice,Polonia,22
+DEBIT,6,2,29.39,104.96,Late delivery,1,40,Accessories,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,6,Outdoors,40.80894089,-74.0328598,Europe,Katowice,Polonia,22
+PAYMENT,4,4,16.09,48.75,Shipping on time,0,33,Golf Shoes,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,6,Outdoors,40.80894089,-74.0328598,Africa,Kinshasa,Rep£blica Democr tica del Congo,22
+PAYMENT,4,4,3.6,47.98,Shipping on time,0,46,Indoor/Outdoor Games,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,7,Fan Shop,40.80894089,-74.0328598,Africa,Kinshasa,Rep£blica Democr tica del Congo,22
+PAYMENT,4,4,113.67,391.98,Shipping on time,0,45,Fishing,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,7,Fan Shop,40.80894089,-74.0328598,Africa,Kinshasa,Rep£blica Democr tica del Congo,22
+DEBIT,6,2,10.44,347.98,Late delivery,1,45,Fishing,North Bergen,EE. UU.,Joseph,22,Smith,Corporate,NJ,7740 Broad Fox Villas,7047,7,Fan Shop,40.80894089,-74.0328598,Europe,Katowice,Polonia,22
+CASH,6,2,-47.99,59.99,Late delivery,1,17,Cleats,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,4,Apparel,18.01836205,-66.61623383,LATAM,San Salvador,El Salvador,23
+CASH,6,2,-10.52,49.39,Late delivery,1,37,Electronics,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,6,Outdoors,18.01836205,-66.61623383,LATAM,San Salvador,El Salvador,23
+CASH,6,2,80.9,278.97,Late delivery,1,9,Cardio Equipment,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,3,Footwear,18.01836205,-66.61623383,LATAM,San Salvador,El Salvador,23
+CASH,6,2,33.84,180,Late delivery,1,24,Women's Apparel,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,5,Golf,18.01836205,-66.61623383,LATAM,San Salvador,El Salvador,23
+PAYMENT,2,1,43.68,167.99,Late delivery,1,48,Water Sports,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,7,Fan Shop,18.01836205,-66.61623383,Europe,Laval,Francia,23
+PAYMENT,2,1,43.88,120.89,Late delivery,1,18,Men's Footwear,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,4,Apparel,18.01836205,-66.61623383,Europe,Laval,Francia,23
+PAYMENT,4,4,37.12,218.36,Shipping on time,0,17,Cleats,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,4,Apparel,18.01836205,-66.61623383,USCA,Jacksonville,Estados Unidos,23
+PAYMENT,4,4,84.46,175.96,Shipping on time,0,29,Shop By Sport,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,5,Golf,18.01836205,-66.61623383,USCA,Jacksonville,Estados Unidos,23
+TRANSFER,2,1,53.5,109.19,Shipping canceled,0,18,Men's Footwear,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,4,Apparel,18.01836205,-66.61623383,LATAM,Cartago,Colombia,23
+TRANSFER,2,1,4.92,245.98,Shipping canceled,0,43,Camping & Hiking,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,7,Fan Shop,18.01836205,-66.61623383,LATAM,Cartago,Colombia,23
+PAYMENT,4,4,115.15,239.9,Shipping on time,0,46,Indoor/Outdoor Games,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,7,Fan Shop,18.01836205,-66.61623383,USCA,Jacksonville,Estados Unidos,23
+PAYMENT,4,4,28.89,169.93,Shipping on time,0,46,Indoor/Outdoor Games,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,7,Fan Shop,18.01836205,-66.61623383,USCA,Jacksonville,Estados Unidos,23
+TRANSFER,2,1,62.7,127.96,Shipping canceled,0,37,Electronics,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,6,Outdoors,18.01836205,-66.61623383,LATAM,Cartago,Colombia,23
+TRANSFER,5,4,39.89,128.69,Late delivery,1,18,Men's Footwear,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,4,Apparel,18.01836205,-66.61623383,Pacific Asia,Neyshabur,Ir n,23
+TRANSFER,5,4,17.1,284.98,Late delivery,1,43,Camping & Hiking,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,7,Fan Shop,18.01836205,-66.61623383,Pacific Asia,Neyshabur,Ir n,23
+TRANSFER,5,4,46.5,185.98,Late delivery,1,9,Cardio Equipment,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,3,Footwear,18.01836205,-66.61623383,Pacific Asia,Neyshabur,Ir n,23
+TRANSFER,3,4,112.31,287.97,Advance shipping,0,9,Cardio Equipment,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,3,Footwear,18.01836205,-66.61623383,Pacific Asia,Orange,Australia,23
+TRANSFER,3,4,99.78,226.76,Advance shipping,0,17,Cleats,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,4,Apparel,18.01836205,-66.61623383,Pacific Asia,Orange,Australia,23
+TRANSFER,5,4,143.99,299.99,Late delivery,1,45,Fishing,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,7,Fan Shop,18.01836205,-66.61623383,Pacific Asia,Neyshabur,Ir n,23
+CASH,6,2,-29,124.45,Late delivery,1,46,Indoor/Outdoor Games,San Juan,Puerto Rico,Benjamin,23,Duarte,Corporate,PR,8811 High Horse Impasse,921,7,Fan Shop,18.01836205,-66.61623383,LATAM,San Salvador,El Salvador,23
+TRANSFER,3,2,16.06,47.5,Shipping canceled,0,24,Women's Apparel,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,5,Golf,18.35124588,-65.96308899,Pacific Asia,Samarinda,Indonesia,24
+TRANSFER,3,2,29.05,83,Shipping canceled,0,24,Women's Apparel,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,5,Golf,18.35124588,-65.96308899,Pacific Asia,Samarinda,Indonesia,24
+TRANSFER,3,2,37.5,299.97,Shipping canceled,0,9,Cardio Equipment,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,3,Footwear,18.35124588,-65.96308899,Pacific Asia,Samarinda,Indonesia,24
+TRANSFER,3,4,62.99,179.97,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,4,Apparel,18.35124588,-65.96308899,Pacific Asia,Ajmer,India,24
+TRANSFER,3,4,37.95,178.17,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,4,Apparel,18.35124588,-65.96308899,Pacific Asia,Ajmer,India,24
+TRANSFER,3,4,148.74,424.96,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,3,Footwear,18.35124588,-65.96308899,Pacific Asia,Ajmer,India,24
+PAYMENT,3,4,48.36,185.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,7,Fan Shop,18.35124588,-65.96308899,LATAM,Belo Horizonte,Brasil,24
+DEBIT,2,1,-90.2,163.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,7,Fan Shop,18.35124588,-65.96308899,Europe,Nieuwegein,Pa¡ses Bajos,24
+PAYMENT,3,4,96.98,197.92,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,7,Fan Shop,18.35124588,-65.96308899,LATAM,Belo Horizonte,Brasil,24
+TRANSFER,3,2,30.84,84.97,Shipping canceled,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,7,Fan Shop,18.35124588,-65.96308899,Pacific Asia,Samarinda,Indonesia,24
+TRANSFER,3,2,81.34,232.41,Shipping canceled,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,7,Fan Shop,18.35124588,-65.96308899,Pacific Asia,Samarinda,Indonesia,24
+DEBIT,2,1,26,99.99,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,3,Footwear,18.35124588,-65.96308899,Europe,Nieuwegein,Pa¡ses Bajos,24
+DEBIT,2,1,20.79,59.39,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,4,Apparel,18.35124588,-65.96308899,Europe,Nieuwegein,Pa¡ses Bajos,24
+DEBIT,2,1,2.44,97.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,4,Apparel,18.35124588,-65.96308899,Europe,Nieuwegein,Pa¡ses Bajos,24
+DEBIT,2,1,-39.25,164.91,Late delivery,1,12,Boxing & MMA,Caguas,Puerto Rico,Mary,24,Smith,Home Office,PR,9417 Emerald Towers,725,3,Footwear,18.35124588,-65.96308899,Europe,Nieuwegein,Pa¡ses Bajos,24
+PAYMENT,2,1,-8.85,149.94,Late delivery,1,46,Indoor/Outdoor Games,Peoria,EE. UU.,Paul,25,Richardson,Home Office,AZ,318 Merry Creek Mountain,85345,7,Fan Shop,33.67002106,-112.2470779,USCA,Seattle,Estados Unidos,25
+PAYMENT,2,1,158.75,377.98,Late delivery,1,45,Fishing,Peoria,EE. UU.,Paul,25,Richardson,Home Office,AZ,318 Merry Creek Mountain,85345,7,Fan Shop,33.67002106,-112.2470779,USCA,Seattle,Estados Unidos,25
+DEBIT,5,4,27.3,97.49,Late delivery,1,18,Men's Footwear,Peoria,EE. UU.,Paul,25,Richardson,Home Office,AZ,318 Merry Creek Mountain,85345,4,Apparel,33.67002106,-112.2470779,LATAM,Apopa,El Salvador,25
+PAYMENT,2,1,14.61,165.98,Late delivery,1,9,Cardio Equipment,Peoria,EE. UU.,Paul,25,Richardson,Home Office,AZ,318 Merry Creek Mountain,85345,3,Footwear,33.67002106,-112.2470779,USCA,Seattle,Estados Unidos,25
+CASH,6,4,106.71,293.98,Late delivery,1,43,Camping & Hiking,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Manila,Filipinas,26
+CASH,6,4,139.67,290.98,Late delivery,1,43,Camping & Hiking,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Manila,Filipinas,26
+CASH,6,4,29.92,339.98,Late delivery,1,45,Fishing,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Manila,Filipinas,26
+DEBIT,4,4,20.36,173.99,Shipping on time,0,48,Water Sports,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,USCA,Bristol,Estados Unidos,26
+TRANSFER,6,4,65,199.99,Late delivery,1,48,Water Sports,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Christchurch,Nueva Zelanda,26
+TRANSFER,6,4,-158.39,197.99,Late delivery,1,48,Water Sports,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Christchurch,Nueva Zelanda,26
+DEBIT,2,4,119.3,290.98,Advance shipping,0,43,Camping & Hiking,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Canberra,Australia,26
+DEBIT,4,4,52.76,128.69,Shipping on time,0,18,Men's Footwear,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,4,Apparel,37.64143753,-121.8764877,USCA,Bristol,Estados Unidos,26
+CASH,6,4,17.25,195.99,Late delivery,1,48,Water Sports,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Manila,Filipinas,26
+DEBIT,4,4,30.54,66.38,Shipping on time,0,29,Shop By Sport,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,5,Golf,37.64143753,-121.8764877,USCA,Bristol,Estados Unidos,26
+DEBIT,4,4,48.72,168,Shipping on time,0,24,Women's Apparel,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,5,Golf,37.64143753,-121.8764877,USCA,Bristol,Estados Unidos,26
+TRANSFER,6,4,74.99,299.97,Late delivery,1,9,Cardio Equipment,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,3,Footwear,37.64143753,-121.8764877,Europe,Bremen,Alemania,26
+DEBIT,2,4,21.82,351.98,Advance shipping,0,45,Fishing,Glenview,EE. UU.,Johnny,26,Hood,Consumer,IL,9576 Middle Hills Round,60025,7,Fan Shop,37.64143753,-121.8764877,Pacific Asia,Canberra,Australia,26
+TRANSFER,3,4,74.36,220,Shipping canceled,0,24,Women's Apparel,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,5,Golf,18.35900879,-66.07815552,LATAM,Ayacucho,Per£,27
+TRANSFER,1,0,29.46,61.38,Late delivery,1,7,Hockey,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,2,Fitness,18.35900879,-66.07815552,LATAM,San Miguelito,Panam ,27
+PAYMENT,2,1,-2.69,47.25,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,5,Golf,18.35900879,-66.07815552,Europe,Antibes,Francia,27
+PAYMENT,2,1,98.99,263.97,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,3,Footwear,18.35900879,-66.07815552,Europe,Antibes,Francia,27
+TRANSFER,3,4,54.54,175.93,Shipping canceled,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,7,Fan Shop,18.35900879,-66.07815552,LATAM,Ayacucho,Per£,27
+CASH,2,2,28.12,96.96,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,7,Fan Shop,18.35900879,-66.07815552,Pacific Asia,Daca,Banglad‚s,27
+CASH,2,2,29.05,232.41,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,7,Fan Shop,18.35900879,-66.07815552,Pacific Asia,Daca,Banglad‚s,27
+TRANSFER,3,4,121.43,263.97,Shipping canceled,0,9,Cardio Equipment,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,3,Footwear,18.35900879,-66.07815552,LATAM,Ayacucho,Per£,27
+TRANSFER,3,4,91.34,260.97,Shipping canceled,0,9,Cardio Equipment,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,3,Footwear,18.35900879,-66.07815552,LATAM,Ayacucho,Per£,27
+CASH,2,2,35.6,107.89,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,4,Apparel,18.35900879,-66.07815552,Pacific Asia,Daca,Banglad‚s,27
+CASH,2,2,36.9,109.18,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Mary,27,Vincent,Consumer,PR,1768 Sleepy Zephyr Place,725,4,Apparel,18.35900879,-66.07815552,Pacific Asia,Daca,Banglad‚s,27
+CASH,2,4,16.83,49.79,Advance shipping,0,17,Cleats,Longview,EE. UU.,Timothy,28,Smith,Consumer,WA,9366 Colonial Horse Close,98632,4,Apparel,46.14056015,-122.9390869,Pacific Asia,Auckland,Nueva Zelanda,28
+PAYMENT,4,2,-18.58,144,Late delivery,1,24,Women's Apparel,Longview,EE. UU.,Timothy,28,Smith,Consumer,WA,9366 Colonial Horse Close,98632,5,Golf,46.14056015,-122.9390869,Pacific Asia,Hobart,Australia,28
+PAYMENT,4,2,54.99,439.96,Late delivery,1,9,Cardio Equipment,Longview,EE. UU.,Timothy,28,Smith,Consumer,WA,9366 Colonial Horse Close,98632,3,Footwear,46.14056015,-122.9390869,Pacific Asia,Hobart,Australia,28
+PAYMENT,6,4,127.75,377.96,Late delivery,1,9,Cardio Equipment,Longview,EE. UU.,Timothy,28,Smith,Consumer,WA,9366 Colonial Horse Close,98632,3,Footwear,46.14056015,-122.9390869,LATAM,Acayucan,M‚xico,28
+PAYMENT,4,2,-82.22,249.9,Late delivery,1,46,Indoor/Outdoor Games,Longview,EE. UU.,Timothy,28,Smith,Consumer,WA,9366 Colonial Horse Close,98632,7,Fan Shop,46.14056015,-122.9390869,Pacific Asia,Hobart,Australia,28
+DEBIT,4,4,0,359.98,Shipping on time,0,45,Fishing,Longview,EE. UU.,Timothy,28,Smith,Consumer,WA,9366 Colonial Horse Close,98632,7,Fan Shop,46.14056015,-122.9390869,Pacific Asia,Mashhad,Ir n,28
+PAYMENT,4,2,156.39,339.98,Late delivery,1,45,Fishing,Longview,EE. UU.,Timothy,28,Smith,Consumer,WA,9366 Colonial Horse Close,98632,7,Fan Shop,46.14056015,-122.9390869,Pacific Asia,Hobart,Australia,28
+PAYMENT,2,4,-8.51,197.99,Advance shipping,0,48,Water Sports,Fort Worth,EE. UU.,Mary,29,Humphrey,Consumer,TX,2469 Blue Brook Crossing,76133,7,Fan Shop,32.65819931,-97.40261078,LATAM,G¢mez Palacio,M‚xico,29
+PAYMENT,6,4,87.42,185.99,Late delivery,1,48,Water Sports,Fort Worth,EE. UU.,Mary,29,Humphrey,Consumer,TX,2469 Blue Brook Crossing,76133,7,Fan Shop,32.65819931,-97.40261078,USCA,Pompano Beach,Estados Unidos,29
+PAYMENT,6,4,61.15,124.79,Late delivery,1,18,Men's Footwear,Fort Worth,EE. UU.,Mary,29,Humphrey,Consumer,TX,2469 Blue Brook Crossing,76133,4,Apparel,32.65819931,-97.40261078,USCA,Pompano Beach,Estados Unidos,29
+PAYMENT,2,4,-10.71,248.96,Advance shipping,0,17,Cleats,Fort Worth,EE. UU.,Mary,29,Humphrey,Consumer,TX,2469 Blue Brook Crossing,76133,4,Apparel,32.65819931,-97.40261078,LATAM,G¢mez Palacio,M‚xico,29
+PAYMENT,6,4,-335.97,479.95,Late delivery,1,9,Cardio Equipment,Fort Worth,EE. UU.,Mary,29,Humphrey,Consumer,TX,2469 Blue Brook Crossing,76133,3,Footwear,32.65819931,-97.40261078,USCA,Pompano Beach,Estados Unidos,29
+PAYMENT,4,4,9.72,110.49,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,4,Apparel,18.1464901,-66.54896545,Pacific Asia,Coffs Harbour,Australia,30
+PAYMENT,4,4,5.32,15.19,Shipping on time,0,41,Trade-In,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,6,Outdoors,18.1464901,-66.54896545,Pacific Asia,Coffs Harbour,Australia,30
+PAYMENT,4,4,-201.59,287.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,7,Fan Shop,18.1464901,-66.54896545,Pacific Asia,Coffs Harbour,Australia,30
+PAYMENT,4,4,36.95,105.58,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,4,Apparel,18.1464901,-66.54896545,Pacific Asia,Coffs Harbour,Australia,30
+DEBIT,2,4,3,29.97,Advance shipping,0,35,Golf Gloves,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,6,Outdoors,18.1464901,-66.54896545,USCA,Santa Maria,Estados Unidos,30
+PAYMENT,4,4,21,167.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,7,Fan Shop,18.1464901,-66.54896545,Pacific Asia,Coffs Harbour,Australia,30
+DEBIT,2,4,8.82,42,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,5,Golf,18.1464901,-66.54896545,USCA,Santa Maria,Estados Unidos,30
+DEBIT,2,4,69.6,240,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Barbara,30,Smith,Home Office,PR,2455 Merry Hollow,725,5,Golf,18.1464901,-66.54896545,USCA,Santa Maria,Estados Unidos,30
+TRANSFER,5,4,59.15,227.5,Late delivery,1,24,Women's Apparel,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,Pacific Asia,Bangkok,Tailandia,31
+TRANSFER,6,4,135.99,399.96,Shipping canceled,0,9,Cardio Equipment,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,3,Footwear,35.13143921,-106.5452042,Pacific Asia,Kabul,Afganist n,31
+PAYMENT,0,0,38.18,82.99,Shipping on time,0,9,Cardio Equipment,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,3,Footwear,35.13143921,-106.5452042,LATAM,Macap ,Brasil,31
+PAYMENT,0,0,10.66,106.59,Shipping on time,0,18,Men's Footwear,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,LATAM,Macap ,Brasil,31
+CASH,2,4,43.88,120.89,Advance shipping,0,18,Men's Footwear,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,Europe,Basel,Suiza,31
+CASH,2,4,56.78,118.29,Advance shipping,0,18,Men's Footwear,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,Europe,Basel,Suiza,31
+CASH,2,4,52.65,116.99,Advance shipping,0,18,Men's Footwear,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,Europe,Basel,Suiza,31
+CASH,2,4,52.92,189,Advance shipping,0,24,Women's Apparel,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,Europe,Basel,Suiza,31
+PAYMENT,0,0,43.32,149.38,Shipping on time,0,17,Cleats,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,LATAM,Macap ,Brasil,31
+PAYMENT,0,0,50.07,159.96,Shipping on time,0,29,Shop By Sport,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,LATAM,Macap ,Brasil,31
+PAYMENT,4,2,51.99,199.95,Late delivery,1,29,Shop By Sport,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,USCA,Aurora,Estados Unidos,31
+PAYMENT,4,2,49.14,188.99,Late delivery,1,48,Water Sports,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,7,Fan Shop,35.13143921,-106.5452042,USCA,Aurora,Estados Unidos,31
+PAYMENT,2,4,12.79,49.19,Advance shipping,0,17,Cleats,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,USCA,Paterson,Estados Unidos,31
+TRANSFER,5,4,70.56,195.99,Late delivery,1,48,Water Sports,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,7,Fan Shop,35.13143921,-106.5452042,Pacific Asia,Bangkok,Tailandia,31
+PAYMENT,2,4,18.05,96,Advance shipping,0,24,Women's Apparel,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,USCA,Paterson,Estados Unidos,31
+PAYMENT,2,4,10.91,145.5,Advance shipping,0,24,Women's Apparel,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,USCA,Paterson,Estados Unidos,31
+PAYMENT,2,4,33.86,99.58,Advance shipping,0,29,Shop By Sport,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,USCA,Paterson,Estados Unidos,31
+TRANSFER,5,4,-12.65,59.39,Late delivery,1,17,Cleats,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,Pacific Asia,Bangkok,Tailandia,31
+TRANSFER,6,4,21.11,43.98,Shipping canceled,0,12,Boxing & MMA,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,3,Footwear,35.13143921,-106.5452042,Pacific Asia,Kabul,Afganist n,31
+TRANSFER,6,4,32.5,129.99,Shipping canceled,0,18,Men's Footwear,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,Pacific Asia,Kabul,Afganist n,31
+TRANSFER,5,4,8.73,116.38,Late delivery,1,17,Cleats,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,Pacific Asia,Bangkok,Tailandia,31
+TRANSFER,6,4,-1.08,83,Shipping canceled,0,24,Women's Apparel,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,5,Golf,35.13143921,-106.5452042,Pacific Asia,Kabul,Afganist n,31
+TRANSFER,6,4,18.9,151.17,Shipping canceled,0,17,Cleats,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,4,Apparel,35.13143921,-106.5452042,Pacific Asia,Kabul,Afganist n,31
+PAYMENT,0,0,9.56,127.45,Shipping on time,0,46,Indoor/Outdoor Games,Albuquerque,EE. UU.,Mary,31,Byrd,Consumer,NM,8259 Foggy Edge,87111,7,Fan Shop,35.13143921,-106.5452042,LATAM,Macap ,Brasil,31
+CASH,4,2,14.1,29.99,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,5,Golf,18.2275734,-66.04343414,USCA,Chicago,Estados Unidos,32
+DEBIT,4,4,9.83,29.07,Shipping on time,0,35,Golf Gloves,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,6,Outdoors,18.2275734,-66.04343414,LATAM,Palma Soriano,Cuba,32
+DEBIT,4,4,114.83,347.98,Shipping on time,0,45,Fishing,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,LATAM,Palma Soriano,Cuba,32
+DEBIT,4,4,25.5,339.98,Shipping on time,0,45,Fishing,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,LATAM,Palma Soriano,Cuba,32
+DEBIT,4,4,80.63,251.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,LATAM,Palma Soriano,Cuba,32
+CASH,4,2,14.75,32.78,Late delivery,1,32,Golf Apparel,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,6,Outdoors,18.2275734,-66.04343414,USCA,Chicago,Estados Unidos,32
+TRANSFER,0,0,64.8,179.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,LATAM,Obreg¢n,M‚xico,32
+TRANSFER,4,4,-16.15,227.41,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,USCA,Houston,Estados Unidos,32
+DEBIT,4,4,22.04,48.98,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,LATAM,Palma Soriano,Cuba,32
+TRANSFER,0,0,78.92,217.41,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,LATAM,Obreg¢n,M‚xico,32
+TRANSFER,0,0,64.02,176.37,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,4,Apparel,18.2275734,-66.04343414,LATAM,Obreg¢n,M‚xico,32
+TRANSFER,0,0,92.16,192,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,5,Golf,18.2275734,-66.04343414,LATAM,Obreg¢n,M‚xico,32
+TRANSFER,4,4,21.26,47.25,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,5,Golf,18.2275734,-66.04343414,USCA,Houston,Estados Unidos,32
+TRANSFER,3,4,74.24,197.98,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,3,Footwear,18.2275734,-66.04343414,LATAM,S?o Paulo,Brasil,32
+TRANSFER,3,4,33.26,377.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,7,Fan Shop,18.2275734,-66.04343414,LATAM,S?o Paulo,Brasil,32
+TRANSFER,4,4,46.97,161.97,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,4,Apparel,18.2275734,-66.04343414,USCA,Houston,Estados Unidos,32
+TRANSFER,4,4,104.89,223.16,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Alice,32,Smith,Corporate,PR,2082 Hidden Green,725,4,Apparel,18.2275734,-66.04343414,USCA,Houston,Estados Unidos,32
+DEBIT,3,2,32.76,116.99,Late delivery,1,18,Men's Footwear,Norfolk,EE. UU.,Adam,33,Petersen,Consumer,VA,9768 Noble Horse Heights,23503,4,Apparel,36.95009995,-76.24848938,LATAM,Silao,M‚xico,33
+DEBIT,3,2,81.47,290.98,Late delivery,1,43,Camping & Hiking,Norfolk,EE. UU.,Adam,33,Petersen,Consumer,VA,9768 Noble Horse Heights,23503,7,Fan Shop,36.95009995,-76.24848938,LATAM,Silao,M‚xico,33
+DEBIT,3,2,234.98,499.95,Late delivery,1,9,Cardio Equipment,Norfolk,EE. UU.,Adam,33,Petersen,Consumer,VA,9768 Noble Horse Heights,23503,3,Footwear,36.95009995,-76.24848938,LATAM,Silao,M‚xico,33
+TRANSFER,6,2,-9.84,49.19,Late delivery,1,17,Cleats,Norfolk,EE. UU.,Adam,33,Petersen,Consumer,VA,9768 Noble Horse Heights,23503,4,Apparel,36.95009995,-76.24848938,Pacific Asia,Surat,India,33
+TRANSFER,6,2,65.76,226.76,Late delivery,1,17,Cleats,Norfolk,EE. UU.,Adam,33,Petersen,Consumer,VA,9768 Noble Horse Heights,23503,4,Apparel,36.95009995,-76.24848938,Pacific Asia,Surat,India,33
+TRANSFER,3,2,11.81,94.5,Late delivery,1,7,Hockey,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,2,Fitness,18.14657784,-66.27722168,Pacific Asia,Medina,Arabia Saud¡,34
+TRANSFER,3,2,4.52,18.98,Late delivery,1,35,Golf Gloves,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,6,Outdoors,18.14657784,-66.27722168,Pacific Asia,Medina,Arabia Saud¡,34
+DEBIT,4,2,23.4,129.99,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,4,Apparel,18.14657784,-66.27722168,Europe,Bremen,Alemania,34
+DEBIT,5,4,54.14,110.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,4,Apparel,18.14657784,-66.27722168,LATAM,Holgu¡n,Cuba,34
+DEBIT,5,4,124.19,269.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,7,Fan Shop,18.14657784,-66.27722168,LATAM,Holgu¡n,Cuba,34
+DEBIT,5,4,18.08,135.97,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,5,Golf,18.14657784,-66.27722168,LATAM,Holgu¡n,Cuba,34
+PAYMENT,2,1,29.64,123.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,4,Apparel,18.14657784,-66.27722168,Europe,Crewe,Reino Unido,34
+PAYMENT,2,1,-208.31,335.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,7,Fan Shop,18.14657784,-66.27722168,Europe,Crewe,Reino Unido,34
+PAYMENT,5,4,15.31,173.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,7,Fan Shop,18.14657784,-66.27722168,USCA,London,Canada,34
+DEBIT,5,4,90.72,188.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,7,Fan Shop,18.14657784,-66.27722168,LATAM,Holgu¡n,Cuba,34
+PAYMENT,5,4,26.46,97.99,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,3,Footwear,18.14657784,-66.27722168,USCA,London,Canada,34
+PAYMENT,5,4,46.56,96.99,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,3,Footwear,18.14657784,-66.27722168,USCA,London,Canada,34
+TRANSFER,2,4,33.6,335.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,7,Fan Shop,18.14657784,-66.27722168,Europe,Brindisi,Italia,34
+TRANSFER,1,0,57.01,118.78,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,4,Apparel,18.14657784,-66.27722168,Europe,Lunel,Francia,34
+TRANSFER,3,2,129.35,263.97,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,3,Footwear,18.14657784,-66.27722168,Pacific Asia,Medina,Arabia Saud¡,34
+PAYMENT,2,1,11.52,191.92,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,34,Smith,Corporate,PR,3330 Easy Berry Range,725,7,Fan Shop,18.14657784,-66.27722168,Europe,Crewe,Reino Unido,34
+DEBIT,5,4,24.8,79.99,Late delivery,1,9,Cardio Equipment,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,3,Footwear,32.68920898,-97.39685059,Europe,Cologne,Alemania,35
+PAYMENT,6,4,-150.82,118.29,Late delivery,1,18,Men's Footwear,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,4,Apparel,32.68920898,-97.39685059,LATAM,Villa Nueva,Guatemala,35
+PAYMENT,6,4,127.39,391.98,Late delivery,1,45,Fishing,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,7,Fan Shop,32.68920898,-97.39685059,LATAM,Villa Nueva,Guatemala,35
+PAYMENT,6,4,-467.74,283.48,Late delivery,1,43,Camping & Hiking,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,7,Fan Shop,32.68920898,-97.39685059,LATAM,Villa Nueva,Guatemala,35
+DEBIT,5,4,12.91,79.18,Late delivery,1,29,Shop By Sport,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,5,Golf,32.68920898,-97.39685059,Europe,Cologne,Alemania,35
+DEBIT,5,4,44.82,165.99,Late delivery,1,48,Water Sports,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,7,Fan Shop,32.68920898,-97.39685059,Europe,Cologne,Alemania,35
+DEBIT,5,4,10.33,163.99,Late delivery,1,48,Water Sports,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,7,Fan Shop,32.68920898,-97.39685059,Europe,Cologne,Alemania,35
+TRANSFER,2,1,-10.6,186,Shipping canceled,0,24,Women's Apparel,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,5,Golf,32.68920898,-97.39685059,Europe,Estocolmo,Suecia,35
+TRANSFER,6,2,32.11,94.99,Late delivery,1,9,Cardio Equipment,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,3,Footwear,32.68920898,-97.39685059,Europe,Sterlitamak,Rusia,35
+TRANSFER,6,2,19.65,109.19,Late delivery,1,18,Men's Footwear,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,4,Apparel,32.68920898,-97.39685059,Europe,Sterlitamak,Rusia,35
+TRANSFER,6,2,-149.92,179.97,Late delivery,1,17,Cleats,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,4,Apparel,32.68920898,-97.39685059,Europe,Sterlitamak,Rusia,35
+TRANSFER,6,2,-25.44,136.77,Late delivery,1,37,Electronics,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,6,Outdoors,32.68920898,-97.39685059,Europe,Sterlitamak,Rusia,35
+DEBIT,5,4,15.75,126,Late delivery,1,24,Women's Apparel,Oceanside,EE. UU.,Margaret,35,Wright,Consumer,CA,9456 Sleepy Jetty,92056,5,Golf,32.68920898,-97.39685059,Europe,Cologne,Alemania,35
+CASH,3,2,8.48,113.09,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Michelle,36,Carey,Corporate,PR,6336 Fallen Village,725,4,Apparel,18.2275734,-66.04344177,Europe,Sandnes,Noruega,36
+CASH,3,2,15.12,251.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Michelle,36,Carey,Corporate,PR,6336 Fallen Village,725,7,Fan Shop,18.2275734,-66.04344177,Europe,Sandnes,Noruega,36
+CASH,3,2,119.51,248.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Michelle,36,Carey,Corporate,PR,6336 Fallen Village,725,7,Fan Shop,18.2275734,-66.04344177,Europe,Sandnes,Noruega,36
+CASH,3,2,18.45,245.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Michelle,36,Carey,Corporate,PR,6336 Fallen Village,725,7,Fan Shop,18.2275734,-66.04344177,Europe,Sandnes,Noruega,36
+CASH,3,2,11.64,155.16,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Michelle,36,Carey,Corporate,PR,6336 Fallen Village,725,5,Golf,18.2275734,-66.04344177,Europe,Sandnes,Noruega,36
+TRANSFER,4,2,70,199.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Michelle,36,Carey,Corporate,PR,6336 Fallen Village,725,7,Fan Shop,18.2275734,-66.04344177,LATAM,Tehuac n,M‚xico,36
+CASH,4,2,45.04,128.69,Late delivery,1,18,Men's Footwear,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,4,Apparel,36.94044876,-76.25640106,Europe,Franconville,Francia,37
+CASH,4,2,-27.31,47.5,Late delivery,1,24,Women's Apparel,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,5,Golf,36.94044876,-76.25640106,Europe,Franconville,Francia,37
+CASH,2,2,39.16,107.89,Shipping on time,0,18,Men's Footwear,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,4,Apparel,36.94044876,-76.25640106,LATAM,Itapevi,Brasil,37
+CASH,2,2,2.66,106.59,Shipping on time,0,18,Men's Footwear,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,4,Apparel,36.94044876,-76.25640106,LATAM,Itapevi,Brasil,37
+CASH,2,2,37.89,104.38,Shipping on time,0,17,Cleats,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,4,Apparel,36.94044876,-76.25640106,LATAM,Itapevi,Brasil,37
+CASH,4,2,31.42,116.37,Late delivery,1,29,Shop By Sport,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,5,Golf,36.94044876,-76.25640106,Europe,Franconville,Francia,37
+CASH,4,2,85.12,197.95,Late delivery,1,29,Shop By Sport,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,5,Golf,36.94044876,-76.25640106,Europe,Franconville,Francia,37
+CASH,4,2,87.4,189.99,Late delivery,1,48,Water Sports,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,7,Fan Shop,36.94044876,-76.25640106,Europe,Franconville,Francia,37
+CASH,2,2,81.97,163.93,Shipping on time,0,46,Indoor/Outdoor Games,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,7,Fan Shop,36.94044876,-76.25640106,LATAM,Itapevi,Brasil,37
+DEBIT,6,2,-10.85,49.98,Late delivery,1,46,Indoor/Outdoor Games,Norfolk,EE. UU.,Virginia,37,Conrad,Consumer,VA,6115 Indian Beacon Close,23503,7,Fan Shop,36.94044876,-76.25640106,LATAM,Bogot ,Colombia,37
+CASH,3,2,22.56,47.99,Late delivery,1,17,Cleats,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,4,Apparel,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+CASH,3,2,15.21,44.99,Late delivery,1,17,Cleats,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,4,Apparel,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+CASH,3,2,14.25,37.99,Late delivery,1,29,Shop By Sport,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,5,Golf,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+CASH,2,2,63.7,129.99,Shipping on time,0,18,Men's Footwear,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,4,Apparel,30.24161911,-97.89144135,USCA,Colorado Springs,Estados Unidos,38
+CASH,2,2,24.99,50.99,Shipping on time,0,17,Cleats,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,4,Apparel,30.24161911,-97.89144135,USCA,Colorado Springs,Estados Unidos,38
+CASH,2,2,66.15,236.25,Shipping on time,0,24,Women's Apparel,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,5,Golf,30.24161911,-97.89144135,USCA,Colorado Springs,Estados Unidos,38
+CASH,3,4,-22.31,127.5,Advance shipping,0,24,Women's Apparel,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,5,Golf,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+CASH,3,4,53.2,190,Advance shipping,0,24,Women's Apparel,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,5,Golf,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+CASH,3,4,-423.23,248.96,Advance shipping,0,17,Cleats,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,4,Apparel,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+CASH,2,2,53.76,191.99,Shipping on time,0,48,Water Sports,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,7,Fan Shop,30.24161911,-97.89144135,USCA,Colorado Springs,Estados Unidos,38
+CASH,3,4,60.14,193.99,Advance shipping,0,48,Water Sports,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,7,Fan Shop,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+TRANSFER,2,4,-9.5,47.5,Advance shipping,0,24,Women's Apparel,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,5,Golf,30.24161911,-97.89144135,LATAM,Nueva Gerona,Cuba,38
+CASH,2,2,11.62,46.48,Shipping on time,0,46,Indoor/Outdoor Games,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,7,Fan Shop,30.24161911,-97.89144135,USCA,Colorado Springs,Estados Unidos,38
+CASH,3,4,-47.14,173.93,Advance shipping,0,46,Indoor/Outdoor Games,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,7,Fan Shop,30.24161911,-97.89144135,Pacific Asia,Yakarta,Indonesia,38
+TRANSFER,6,4,80.63,287.98,Late delivery,1,43,Camping & Hiking,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,7,Fan Shop,30.24161911,-97.89144135,LATAM,Valpara¡so de Goi s,Brasil,38
+TRANSFER,6,2,120.11,363.98,Late delivery,1,45,Fishing,Opelousas,EE. UU.,Mary,38,Smith,Consumer,LA,2805 Crystal Moor,70570,7,Fan Shop,30.24161911,-97.89144135,Pacific Asia,Wollongong,Australia,38
+TRANSFER,3,4,-213.29,96.95,Advance shipping,0,36,Golf Balls,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,6,Outdoors,18.22408485,-66.04698181,Pacific Asia,Nom Pen,Camboya,39
+TRANSFER,2,4,32.4,120,Advance shipping,0,7,Hockey,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,2,Fitness,18.22408485,-66.04698181,Europe,Toulouse,Francia,39
+PAYMENT,0,0,68.25,181.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,7,Fan Shop,18.22408485,-66.04698181,Pacific Asia,Mosul,Irak,39
+TRANSFER,2,4,58.5,179.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,7,Fan Shop,18.22408485,-66.04698181,Europe,Toulouse,Francia,39
+PAYMENT,0,0,11.76,117.58,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,4,Apparel,18.22408485,-66.04698181,Pacific Asia,Mosul,Irak,39
+PAYMENT,0,0,7.8,83,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,5,Golf,18.22408485,-66.04698181,Pacific Asia,Mosul,Irak,39
+PAYMENT,0,0,129.59,269.97,Shipping on time,0,9,Cardio Equipment,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,3,Footwear,18.22408485,-66.04698181,Pacific Asia,Mosul,Irak,39
+TRANSFER,3,4,22.76,49.48,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,7,Fan Shop,18.22408485,-66.04698181,Pacific Asia,Nom Pen,Camboya,39
+TRANSFER,5,4,-5.49,391.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,7,Fan Shop,18.22408485,-66.04698181,LATAM,San Salvador,El Salvador,39
+PAYMENT,0,0,36,359.98,Shipping on time,0,45,Fishing,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,7,Fan Shop,18.22408485,-66.04698181,Pacific Asia,Mosul,Irak,39
+TRANSFER,2,4,5.34,47.25,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,5,Golf,18.22408485,-66.04698181,Europe,Toulouse,Francia,39
+TRANSFER,2,4,1.01,33.59,Advance shipping,0,26,Girls' Apparel,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,5,Golf,18.22408485,-66.04698181,Europe,Toulouse,Francia,39
+TRANSFER,6,4,-9.99,54.59,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,4,Apparel,18.22408485,-66.04698181,Pacific Asia,Srinagar,India,39
+TRANSFER,6,4,47.77,97.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,4,Apparel,18.22408485,-66.04698181,Pacific Asia,Srinagar,India,39
+TRANSFER,6,4,-247.48,299.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,7,Fan Shop,18.22408485,-66.04698181,Pacific Asia,Srinagar,India,39
+TRANSFER,6,4,57.59,119.97,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,5,Golf,18.22408485,-66.04698181,Pacific Asia,Srinagar,India,39
+TRANSFER,2,4,-172.77,215.96,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Juan,39,Mckinney,Consumer,PR,7274 Blue Wagon  Villas,725,4,Apparel,18.22408485,-66.04698181,Europe,Toulouse,Francia,39
+DEBIT,5,4,174.36,464.95,Late delivery,1,16,As Seen on  TV!,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,3,Footwear,33.56687927,-117.7633209,Europe,Wolverhampton,Reino Unido,40
+CASH,2,1,-6.17,123.49,Late delivery,1,18,Men's Footwear,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,4,Apparel,33.56687927,-117.7633209,Pacific Asia,Panihati,India,40
+CASH,2,1,28.8,383.98,Late delivery,1,45,Fishing,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,7,Fan Shop,33.56687927,-117.7633209,Pacific Asia,Panihati,India,40
+CASH,2,1,12.64,53.1,Late delivery,1,13,Electronics,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,3,Footwear,33.56687927,-117.7633209,Pacific Asia,Panihati,India,40
+DEBIT,5,4,46.89,414.96,Late delivery,1,9,Cardio Equipment,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,3,Footwear,33.56687927,-117.7633209,Pacific Asia,Ulhasnagar,India,40
+DEBIT,5,4,155.78,409.96,Late delivery,1,9,Cardio Equipment,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,3,Footwear,33.56687927,-117.7633209,Pacific Asia,Ulhasnagar,India,40
+PAYMENT,2,4,9.75,97.49,Advance shipping,0,18,Men's Footwear,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,4,Apparel,33.56687927,-117.7633209,Europe,Salavat,Rusia,40
+CASH,2,1,4.84,241.8,Late delivery,1,33,Golf Shoes,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,6,Outdoors,33.56687927,-117.7633209,Pacific Asia,Panihati,India,40
+PAYMENT,2,4,81.17,245.98,Advance shipping,0,43,Camping & Hiking,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,7,Fan Shop,33.56687927,-117.7633209,Europe,Salavat,Rusia,40
+PAYMENT,6,4,32.8,113.09,Late delivery,1,18,Men's Footwear,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,4,Apparel,33.56687927,-117.7633209,LATAM,Pinar del R¡o,Cuba,40
+PAYMENT,6,4,15.66,34.79,Late delivery,1,29,Shop By Sport,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,5,Golf,33.56687927,-117.7633209,LATAM,Pinar del R¡o,Cuba,40
+CASH,2,1,-307.98,175.99,Late delivery,1,48,Water Sports,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,7,Fan Shop,33.56687927,-117.7633209,Pacific Asia,Panihati,India,40
+TRANSFER,5,2,17.11,91,Late delivery,1,24,Women's Apparel,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,5,Golf,33.56687927,-117.7633209,LATAM,Hermosillo,M‚xico,40
+TRANSFER,3,2,28.16,351.96,Late delivery,1,9,Cardio Equipment,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,3,Footwear,33.56687927,-117.7633209,USCA,Providence,Estados Unidos,40
+TRANSFER,5,2,174.59,387.98,Late delivery,1,45,Fishing,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,7,Fan Shop,33.56687927,-117.7633209,LATAM,Hermosillo,M‚xico,40
+TRANSFER,5,2,-199.67,383.98,Late delivery,1,45,Fishing,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,7,Fan Shop,33.56687927,-117.7633209,LATAM,Hermosillo,M‚xico,40
+PAYMENT,6,4,116.19,331.98,Late delivery,1,45,Fishing,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,7,Fan Shop,33.56687927,-117.7633209,LATAM,Pinar del R¡o,Cuba,40
+TRANSFER,3,2,122.99,327.98,Late delivery,1,45,Fishing,Long Beach,EE. UU.,Mary,40,Smith,Consumer,CA,7358 Rocky Villas,90805,7,Fan Shop,33.56687927,-117.7633209,USCA,Providence,Estados Unidos,40
+PAYMENT,2,2,69.6,239.98,Shipping on time,0,43,Camping & Hiking,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,LATAM,Ixtapaluca,M‚xico,41
+PAYMENT,2,2,242.48,484.95,Shipping on time,0,9,Cardio Equipment,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,3,Footwear,40.67569351,-73.87450409,LATAM,Ixtapaluca,M‚xico,41
+PAYMENT,4,4,53.94,185.99,Shipping on time,0,48,Water Sports,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,Pacific Asia,Zany n,Ir n,41
+PAYMENT,4,4,23.61,49.19,Shipping on time,0,17,Cleats,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,4,Apparel,40.67569351,-73.87450409,Pacific Asia,Zany n,Ir n,41
+PAYMENT,4,4,5.41,18.03,Shipping on time,0,41,Trade-In,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,6,Outdoors,40.67569351,-73.87450409,Pacific Asia,Zany n,Ir n,41
+PAYMENT,2,2,20.39,42.48,Shipping on time,0,46,Indoor/Outdoor Games,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,LATAM,Ixtapaluca,M‚xico,41
+PAYMENT,4,4,53.86,284.95,Shipping on time,0,17,Cleats,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,4,Apparel,40.67569351,-73.87450409,Pacific Asia,Zany n,Ir n,41
+PAYMENT,4,4,20.49,49.98,Shipping on time,0,46,Indoor/Outdoor Games,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,Pacific Asia,Zany n,Ir n,41
+TRANSFER,1,0,174.79,379.98,Late delivery,1,45,Fishing,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,Europe,Florence,Italia,41
+CASH,2,2,59.43,204.92,Shipping on time,0,46,Indoor/Outdoor Games,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,Pacific Asia,Mandurah,Australia,41
+PAYMENT,2,2,95,379.98,Shipping on time,0,45,Fishing,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,LATAM,Ixtapaluca,M‚xico,41
+PAYMENT,2,2,124.73,377.98,Shipping on time,0,45,Fishing,Brooklyn,EE. UU.,Victoria,41,Mason,Consumer,NY,7869 Crystal View Villas,11230,7,Fan Shop,40.67569351,-73.87450409,LATAM,Ixtapaluca,M‚xico,41
+PAYMENT,2,1,26.97,86.99,Late delivery,1,9,Cardio Equipment,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,3,Footwear,33.83944702,-118.1929245,LATAM,S?o Lu¡s,Brasil,42
+PAYMENT,2,1,10.29,39.59,Late delivery,1,29,Shop By Sport,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,5,Golf,33.83944702,-118.1929245,LATAM,S?o Lu¡s,Brasil,42
+PAYMENT,2,1,85.04,283.48,Late delivery,1,43,Camping & Hiking,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,7,Fan Shop,33.83944702,-118.1929245,LATAM,S?o Lu¡s,Brasil,42
+CASH,4,4,31.45,85,Shipping on time,0,24,Women's Apparel,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,5,Golf,33.83944702,-118.1929245,LATAM,Le¢n,M‚xico,42
+PAYMENT,4,2,75.59,269.97,Late delivery,1,9,Cardio Equipment,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,3,Footwear,33.83944702,-118.1929245,Pacific Asia,Pasig,Filipinas,42
+CASH,4,4,39.54,116.99,Shipping on time,0,32,Golf Apparel,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,6,Outdoors,33.83944702,-118.1929245,LATAM,Le¢n,M‚xico,42
+CASH,4,4,50.95,195.98,Shipping on time,0,30,Men's Golf Clubs,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,6,Outdoors,33.83944702,-118.1929245,LATAM,Le¢n,M‚xico,42
+DEBIT,3,4,72,149.99,Advance shipping,0,48,Water Sports,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,7,Fan Shop,33.83944702,-118.1929245,LATAM,Manaus,Brasil,42
+DEBIT,5,2,55.25,169.99,Late delivery,1,48,Water Sports,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,7,Fan Shop,33.83944702,-118.1929245,USCA,San Diego,Estados Unidos,42
+DEBIT,2,4,8.19,109.19,Advance shipping,0,18,Men's Footwear,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,4,Apparel,33.83944702,-118.1929245,Africa,Kinshasa,Rep£blica Democr tica del Congo,42
+DEBIT,3,4,55.41,113.09,Advance shipping,0,18,Men's Footwear,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,4,Apparel,33.83944702,-118.1929245,LATAM,Manaus,Brasil,42
+DEBIT,6,4,17.46,58.19,Late delivery,1,17,Cleats,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,4,Apparel,33.83944702,-118.1929245,Pacific Asia,Sydney,Australia,42
+CASH,4,4,34.4,92.96,Shipping on time,0,46,Indoor/Outdoor Games,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,7,Fan Shop,33.83944702,-118.1929245,LATAM,Le¢n,M‚xico,42
+CASH,4,4,66.04,181.93,Shipping on time,0,46,Indoor/Outdoor Games,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,7,Fan Shop,33.83944702,-118.1929245,LATAM,Le¢n,M‚xico,42
+DEBIT,6,4,55.24,169.98,Late delivery,1,9,Cardio Equipment,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,3,Footwear,33.83944702,-118.1929245,Pacific Asia,Sydney,Australia,42
+DEBIT,6,4,-177.43,272.97,Late delivery,1,9,Cardio Equipment,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,3,Footwear,33.83944702,-118.1929245,Pacific Asia,Sydney,Australia,42
+DEBIT,3,4,-23.75,190,Advance shipping,0,24,Women's Apparel,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,5,Golf,33.83944702,-118.1929245,LATAM,Manaus,Brasil,42
+DEBIT,3,4,77.44,351.98,Advance shipping,0,45,Fishing,Duluth,EE. UU.,Ethan,42,Smith,Consumer,GA,7533 Thunder Wagon  Beach,30096,7,Fan Shop,33.83944702,-118.1929245,LATAM,Manaus,Brasil,42
+DEBIT,4,2,-74.42,111.58,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,43,Herring,Corporate,PR,4575 Thunder Dale,725,4,Apparel,18.27657318,-66.03531647,Europe,Montesson,Francia,43
+TRANSFER,2,4,-303.78,195.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Mary,43,Herring,Corporate,PR,4575 Thunder Dale,725,7,Fan Shop,18.27657318,-66.03531647,Pacific Asia,Hyderabad,India,43
+TRANSFER,2,4,-44.13,126.09,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Mary,43,Herring,Corporate,PR,4575 Thunder Dale,725,4,Apparel,18.27657318,-66.03531647,Pacific Asia,Hyderabad,India,43
+TRANSFER,2,4,47.89,141.69,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,43,Herring,Corporate,PR,4575 Thunder Dale,725,7,Fan Shop,18.27657318,-66.03531647,Pacific Asia,Hyderabad,India,43
+TRANSFER,2,4,39.3,151.15,Advance shipping,0,37,Electronics,Caguas,Puerto Rico,Mary,43,Herring,Corporate,PR,4575 Thunder Dale,725,6,Outdoors,18.27657318,-66.03531647,Pacific Asia,Hyderabad,India,43
+TRANSFER,2,4,125.73,371.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,Mary,43,Herring,Corporate,PR,4575 Thunder Dale,725,7,Fan Shop,18.27657318,-66.03531647,Pacific Asia,Hyderabad,India,43
+PAYMENT,2,1,20.25,55.79,Late delivery,1,17,Cleats,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,4,Apparel,38.30553055,-122.2734375,LATAM,Ilopango,El Salvador,44
+PAYMENT,3,2,17.22,59.39,Late delivery,1,17,Cleats,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,4,Apparel,38.30553055,-122.2734375,Pacific Asia,Raipur,India,44
+PAYMENT,3,2,12,159.98,Late delivery,1,9,Cardio Equipment,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,3,Footwear,38.30553055,-122.2734375,Pacific Asia,Raipur,India,44
+PAYMENT,3,2,27.28,167.37,Late delivery,1,17,Cleats,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,4,Apparel,38.30553055,-122.2734375,Pacific Asia,Raipur,India,44
+PAYMENT,3,2,4.18,47.48,Late delivery,1,35,Golf Gloves,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,6,Outdoors,38.30553055,-122.2734375,Pacific Asia,Raipur,India,44
+PAYMENT,3,4,13.65,109.19,Advance shipping,0,18,Men's Footwear,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,4,Apparel,38.30553055,-122.2734375,Europe,Lorca,Espa¤a,44
+PAYMENT,3,4,2.36,37.5,Advance shipping,0,24,Women's Apparel,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,5,Golf,38.30553055,-122.2734375,Europe,Lorca,Espa¤a,44
+PAYMENT,3,4,12,239.98,Advance shipping,0,43,Camping & Hiking,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,7,Fan Shop,38.30553055,-122.2734375,Europe,Lorca,Espa¤a,44
+PAYMENT,3,4,-152.88,196,Advance shipping,0,24,Women's Apparel,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,5,Golf,38.30553055,-122.2734375,Europe,Lorca,Espa¤a,44
+DEBIT,3,4,37.05,97.49,Advance shipping,0,18,Men's Footwear,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,4,Apparel,38.30553055,-122.2734375,Europe,Augsburg,Alemania,44
+DEBIT,3,4,73.71,283.48,Advance shipping,0,43,Camping & Hiking,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,7,Fan Shop,38.30553055,-122.2734375,Europe,Augsburg,Alemania,44
+DEBIT,3,4,47.43,278.98,Advance shipping,0,43,Camping & Hiking,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,7,Fan Shop,38.30553055,-122.2734375,Europe,Augsburg,Alemania,44
+DEBIT,3,4,152.71,331.98,Advance shipping,0,45,Fishing,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,7,Fan Shop,38.30553055,-122.2734375,Europe,Augsburg,Alemania,44
+DEBIT,5,4,-247.49,149.99,Late delivery,1,48,Water Sports,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,7,Fan Shop,38.30553055,-122.2734375,LATAM,Quetzaltenango,Guatemala,44
+PAYMENT,3,4,109.11,290.95,Advance shipping,0,17,Cleats,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,4,Apparel,38.30553055,-122.2734375,Europe,Lorca,Espa¤a,44
+TRANSFER,2,1,5.2,103.99,Late delivery,1,18,Men's Footwear,Napa,EE. UU.,Howard,44,Smith,Corporate,CA,1356 Easy Plaza,94558,4,Apparel,38.30553055,-122.2734375,LATAM,Ju rez,M‚xico,44
+CASH,5,4,42.47,128.69,Late delivery,1,18,Men's Footwear,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,4,Apparel,39.71010208,-105.0270767,Pacific Asia,Rajshahi,Banglad‚s,45
+CASH,5,4,142.57,290.95,Late delivery,1,17,Cleats,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,4,Apparel,39.71010208,-105.0270767,Pacific Asia,Rajshahi,Banglad‚s,45
+DEBIT,4,4,26.73,98.99,Shipping on time,0,9,Cardio Equipment,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,3,Footwear,39.71010208,-105.0270767,LATAM,Buenos Aires,Argentina,45
+DEBIT,4,4,15,50,Shipping on time,0,24,Women's Apparel,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,5,Golf,39.71010208,-105.0270767,LATAM,Buenos Aires,Argentina,45
+DEBIT,4,4,19.8,263.98,Shipping on time,0,43,Camping & Hiking,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,7,Fan Shop,39.71010208,-105.0270767,LATAM,Buenos Aires,Argentina,45
+DEBIT,2,4,-8.31,116.99,Advance shipping,0,18,Men's Footwear,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,4,Apparel,39.71010208,-105.0270767,USCA,San Antonio,Estados Unidos,45
+DEBIT,2,4,77.75,287.98,Advance shipping,0,43,Camping & Hiking,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,7,Fan Shop,39.71010208,-105.0270767,USCA,San Antonio,Estados Unidos,45
+DEBIT,4,4,52.58,167.98,Shipping on time,0,9,Cardio Equipment,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,3,Footwear,39.71010208,-105.0270767,LATAM,Buenos Aires,Argentina,45
+PAYMENT,4,4,63.75,212.5,Shipping on time,0,24,Women's Apparel,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,5,Golf,39.71010208,-105.0270767,Europe,Odense,Dinamarca,45
+TRANSFER,4,4,7.2,359.98,Shipping on time,0,45,Fishing,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,7,Fan Shop,39.71010208,-105.0270767,Europe,Birmingham,Reino Unido,45
+TRANSFER,4,4,161.91,351.98,Shipping on time,0,45,Fishing,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,7,Fan Shop,39.71010208,-105.0270767,Europe,Birmingham,Reino Unido,45
+DEBIT,2,4,-116.59,68.58,Advance shipping,0,11,Fitness Accessories,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,3,Footwear,39.71010208,-105.0270767,USCA,San Antonio,Estados Unidos,45
+DEBIT,2,4,54.6,168,Advance shipping,0,24,Women's Apparel,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,5,Golf,39.71010208,-105.0270767,USCA,San Antonio,Estados Unidos,45
+TRANSFER,4,4,8.8,87.96,Shipping on time,0,46,Indoor/Outdoor Games,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,7,Fan Shop,39.71010208,-105.0270767,Europe,Birmingham,Reino Unido,45
+DEBIT,2,4,-65.47,351.98,Advance shipping,0,45,Fishing,Denver,EE. UU.,Mary,45,Nunez,Consumer,CO,1229 Bright Robin Corners,80231,7,Fan Shop,39.71010208,-105.0270767,USCA,San Antonio,Estados Unidos,45
+DEBIT,2,1,18.14,49.98,Late delivery,1,35,Golf Gloves,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,6,Outdoors,33.06581879,-97.36239624,Europe,Catania,Italia,46
+DEBIT,2,1,16.54,35.19,Late delivery,1,29,Shop By Sport,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,5,Golf,33.06581879,-97.36239624,Europe,Catania,Italia,46
+DEBIT,2,1,14.7,293.97,Late delivery,1,9,Cardio Equipment,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,3,Footwear,33.06581879,-97.36239624,Europe,Catania,Italia,46
+DEBIT,0,0,51.93,110.49,Shipping on time,0,18,Men's Footwear,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,4,Apparel,33.06581879,-97.36239624,USCA,Columbus,Estados Unidos,46
+DEBIT,0,0,142.49,284.98,Shipping on time,0,43,Camping & Hiking,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,7,Fan Shop,33.06581879,-97.36239624,USCA,Columbus,Estados Unidos,46
+DEBIT,2,1,70.42,193.99,Late delivery,1,48,Water Sports,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,7,Fan Shop,33.06581879,-97.36239624,Europe,Catania,Italia,46
+DEBIT,3,2,-85.84,128.69,Late delivery,1,18,Men's Footwear,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,4,Apparel,33.06581879,-97.36239624,LATAM,Granada,Nicaragua,46
+DEBIT,3,2,26.72,55.66,Late delivery,1,13,Electronics,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,3,Footwear,33.06581879,-97.36239624,LATAM,Granada,Nicaragua,46
+DEBIT,3,2,69.68,211.16,Late delivery,1,17,Cleats,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,4,Apparel,33.06581879,-97.36239624,LATAM,Granada,Nicaragua,46
+DEBIT,0,0,67.2,159.99,Shipping on time,0,48,Water Sports,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,7,Fan Shop,33.06581879,-97.36239624,USCA,Columbus,Estados Unidos,46
+DEBIT,3,2,27,269.96,Late delivery,1,17,Cleats,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,4,Apparel,33.06581879,-97.36239624,LATAM,Granada,Nicaragua,46
+TRANSFER,2,1,36.4,103.99,Late delivery,1,18,Men's Footwear,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,4,Apparel,33.06581879,-97.36239624,Europe,Sofia,Bulgaria,46
+TRANSFER,2,1,4.75,53.97,Late delivery,1,36,Golf Balls,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,6,Outdoors,33.06581879,-97.36239624,Europe,Sofia,Bulgaria,46
+TRANSFER,2,1,-288,192,Late delivery,1,24,Women's Apparel,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,5,Golf,33.06581879,-97.36239624,Europe,Sofia,Bulgaria,46
+TRANSFER,2,1,58.09,165.96,Late delivery,1,29,Shop By Sport,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,5,Golf,33.06581879,-97.36239624,Europe,Sofia,Bulgaria,46
+TRANSFER,2,4,-30,120,Advance shipping,0,24,Women's Apparel,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,5,Golf,33.06581879,-97.36239624,Africa,Nairobi,Kenia,46
+TRANSFER,2,4,-88.54,379.98,Advance shipping,0,45,Fishing,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,7,Fan Shop,33.06581879,-97.36239624,Africa,Nairobi,Kenia,46
+TRANSFER,2,1,-38.31,371.98,Late delivery,1,45,Fishing,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,7,Fan Shop,33.06581879,-97.36239624,Europe,Sofia,Bulgaria,46
+DEBIT,0,0,110.49,339.98,Shipping on time,0,45,Fishing,Freeport,EE. UU.,Jennifer,46,Smith,Consumer,NY,5463 Rocky Autoroute,11520,7,Fan Shop,33.06581879,-97.36239624,USCA,Columbus,Estados Unidos,46
+PAYMENT,2,2,-215.48,293.97,Shipping on time,0,9,Cardio Equipment,Caguas,Puerto Rico,Lori,47,Fuller,Home Office,PR,357 Noble Lane,725,3,Footwear,18.22754669,-66.04360199,USCA,Oakland,Estados Unidos,47
+PAYMENT,2,2,60.18,207.5,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Lori,47,Fuller,Home Office,PR,357 Noble Lane,725,5,Golf,18.22754669,-66.04360199,USCA,Oakland,Estados Unidos,47
+PAYMENT,2,2,16.01,114.39,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Lori,47,Fuller,Home Office,PR,357 Noble Lane,725,4,Apparel,18.22754669,-66.04360199,USCA,Oakland,Estados Unidos,47
+DEBIT,2,1,-120.05,163.77,Late delivery,1,17,Cleats,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,4,Apparel,41.34735107,-81.83055115,Europe,Dortmund,Alemania,48
+DEBIT,2,1,-109.96,132,Late delivery,1,24,Women's Apparel,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,5,Golf,41.34735107,-81.83055115,Europe,Dortmund,Alemania,48
+DEBIT,2,1,113.39,419.96,Late delivery,1,9,Cardio Equipment,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,3,Footwear,41.34735107,-81.83055115,Europe,Dortmund,Alemania,48
+DEBIT,2,1,81.12,240,Late delivery,1,24,Women's Apparel,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,5,Golf,41.34735107,-81.83055115,Europe,Dortmund,Alemania,48
+TRANSFER,2,4,54.88,195.99,Advance shipping,0,48,Water Sports,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,7,Fan Shop,41.34735107,-81.83055115,LATAM,Soledad D¡ez Guti‚rrez,M‚xico,48
+DEBIT,6,4,12.61,48.5,Late delivery,1,24,Women's Apparel,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,5,Golf,41.34735107,-81.83055115,LATAM,Sonsonate,El Salvador,48
+DEBIT,6,4,180.31,391.98,Late delivery,1,45,Fishing,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,7,Fan Shop,41.34735107,-81.83055115,LATAM,Sonsonate,El Salvador,48
+TRANSFER,6,4,41.09,141.69,Late delivery,1,46,Indoor/Outdoor Games,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,7,Fan Shop,41.34735107,-81.83055115,Pacific Asia,Adana,Turqu¡a,48
+TRANSFER,6,4,21.11,239.9,Late delivery,1,46,Indoor/Outdoor Games,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,7,Fan Shop,41.34735107,-81.83055115,Pacific Asia,Adana,Turqu¡a,48
+TRANSFER,2,4,41.74,143.94,Advance shipping,0,46,Indoor/Outdoor Games,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,7,Fan Shop,41.34735107,-81.83055115,LATAM,Soledad D¡ez Guti‚rrez,M‚xico,48
+DEBIT,2,1,105.59,351.98,Late delivery,1,45,Fishing,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,7,Fan Shop,41.34735107,-81.83055115,Europe,Dortmund,Alemania,48
+TRANSFER,2,4,58.5,129.99,Advance shipping,0,18,Men's Footwear,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,4,Apparel,41.34735107,-81.83055115,LATAM,Soledad D¡ez Guti‚rrez,M‚xico,48
+DEBIT,6,4,31.3,192,Late delivery,1,24,Women's Apparel,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,5,Golf,41.34735107,-81.83055115,LATAM,Sonsonate,El Salvador,48
+TRANSFER,2,4,24.18,93,Advance shipping,0,24,Women's Apparel,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,5,Golf,41.34735107,-81.83055115,LATAM,Soledad D¡ez Guti‚rrez,M‚xico,48
+TRANSFER,6,4,-307.18,383.98,Late delivery,1,45,Fishing,Strongsville,EE. UU.,Mary,48,Cowan,Consumer,OH,1040 Hazy Timber Lookout,44136,7,Fan Shop,41.34735107,-81.83055115,Pacific Asia,Adana,Turqu¡a,48
+PAYMENT,0,0,20.34,179.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,7,Fan Shop,18.25029564,-66.07608795,USCA,Chicago,Estados Unidos,49
+PAYMENT,0,0,15.49,175.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,7,Fan Shop,18.25029564,-66.07608795,USCA,Chicago,Estados Unidos,49
+PAYMENT,0,0,-45.27,247.4,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,7,Fan Shop,18.25029564,-66.07608795,USCA,Chicago,Estados Unidos,49
+TRANSFER,2,1,9.84,163.99,Shipping canceled,0,48,Water Sports,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,7,Fan Shop,18.25029564,-66.07608795,Europe,Neuilly-Plaisance,Francia,49
+CASH,4,4,-2.55,87.96,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,7,Fan Shop,18.25029564,-66.07608795,Pacific Asia,Lismore,Australia,49
+TRANSFER,2,1,0,97.49,Shipping canceled,0,18,Men's Footwear,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,4,Apparel,18.25029564,-66.07608795,Europe,Neuilly-Plaisance,Francia,49
+TRANSFER,2,1,0,197.98,Shipping canceled,0,9,Cardio Equipment,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,3,Footwear,18.25029564,-66.07608795,Europe,Neuilly-Plaisance,Francia,49
+TRANSFER,2,1,21.88,75.98,Shipping canceled,0,29,Shop By Sport,Caguas,Puerto Rico,Martha,49,Smith,Consumer,PR,7449 Merry Chase,725,5,Golf,18.25029564,-66.07608795,Europe,Neuilly-Plaisance,Francia,49
+DEBIT,2,1,31.5,89.99,Late delivery,1,9,Cardio Equipment,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,3,Footwear,33.61837387,-117.1344681,LATAM,Apopa,El Salvador,50
+DEBIT,2,1,-60.73,79.18,Late delivery,1,29,Shop By Sport,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,5,Golf,33.61837387,-117.1344681,LATAM,Apopa,El Salvador,50
+DEBIT,5,4,2.2,87.96,Late delivery,1,32,Golf Apparel,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,6,Outdoors,33.61837387,-117.1344681,Europe,Bremen,Alemania,50
+DEBIT,5,4,48,191.99,Late delivery,1,48,Water Sports,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,7,Fan Shop,33.61837387,-117.1344681,LATAM,Estel¡,Nicaragua,50
+DEBIT,5,4,23.76,98.99,Late delivery,1,9,Cardio Equipment,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,3,Footwear,33.61837387,-117.1344681,Europe,Bremen,Alemania,50
+DEBIT,5,4,0,49.79,Late delivery,1,17,Cleats,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,4,Apparel,33.61837387,-117.1344681,Europe,Bremen,Alemania,50
+DEBIT,5,4,12.61,48.5,Late delivery,1,24,Women's Apparel,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,5,Golf,33.61837387,-117.1344681,Europe,Bremen,Alemania,50
+DEBIT,5,4,67.5,299.98,Late delivery,1,43,Camping & Hiking,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,7,Fan Shop,33.61837387,-117.1344681,LATAM,Estel¡,Nicaragua,50
+DEBIT,5,4,16.37,185.98,Late delivery,1,9,Cardio Equipment,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,3,Footwear,33.61837387,-117.1344681,LATAM,Estel¡,Nicaragua,50
+DEBIT,5,4,2.83,217.41,Late delivery,1,46,Indoor/Outdoor Games,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,7,Fan Shop,33.61837387,-117.1344681,LATAM,Estel¡,Nicaragua,50
+TRANSFER,4,4,-200.1,272.98,Shipping on time,0,43,Camping & Hiking,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,7,Fan Shop,33.61837387,-117.1344681,Pacific Asia,Brisbane,Australia,50
+TRANSFER,4,4,0,117.58,Shipping on time,0,17,Cleats,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,4,Apparel,33.61837387,-117.1344681,Pacific Asia,Brisbane,Australia,50
+DEBIT,5,4,9.45,125.95,Late delivery,1,46,Indoor/Outdoor Games,San Bernardino,EE. UU.,Mary,50,Kim,Consumer,CA,938 Rustic Pine Ridge,92410,7,Fan Shop,33.61837387,-117.1344681,Europe,Bremen,Alemania,50
+DEBIT,5,4,11.71,37.4,Late delivery,1,7,Hockey,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,2,Fitness,18.22563362,-66.04745483,Pacific Asia,Caloocan,Filipinas,51
+DEBIT,5,4,19.14,43.5,Late delivery,1,7,Hockey,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,2,Fitness,18.22563362,-66.04745483,Pacific Asia,Caloocan,Filipinas,51
+TRANSFER,4,2,34.12,97.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,4,Apparel,18.22563362,-66.04745483,Europe,Viena,Austria,51
+TRANSFER,3,2,137.19,391.96,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,3,Footwear,18.22563362,-66.04745483,LATAM,Mexico City,M‚xico,51
+TRANSFER,4,2,82.81,245,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,5,Golf,18.22563362,-66.04745483,Europe,Viena,Austria,51
+CASH,5,4,57.4,163.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Miguel Hidalgo,M‚xico,51
+CASH,5,4,36.74,74.97,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Miguel Hidalgo,M‚xico,51
+CASH,2,4,50.6,187.43,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,Europe,Zhyt¢myr,Ucrania,51
+CASH,4,4,67.17,191.92,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Santiago de Cuba,Cuba,51
+CASH,2,4,43.09,110.49,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,4,Apparel,18.22563362,-66.04745483,Europe,Zhyt¢myr,Ucrania,51
+CASH,4,4,30.98,98.99,Shipping on time,0,9,Cardio Equipment,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,3,Footwear,18.22563362,-66.04745483,LATAM,Santiago de Cuba,Cuba,51
+CASH,4,4,127.49,254.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Santiago de Cuba,Cuba,51
+CASH,4,4,38.42,339.98,Shipping on time,0,45,Fishing,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Santiago de Cuba,Cuba,51
+CASH,2,4,48.5,484.95,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,3,Footwear,18.22563362,-66.04745483,Europe,Zhyt¢myr,Ucrania,51
+CASH,4,4,100.78,287.95,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,4,Apparel,18.22563362,-66.04745483,LATAM,Santiago de Cuba,Cuba,51
+TRANSFER,4,2,60.78,189.92,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,Europe,Viena,Austria,51
+DEBIT,3,4,19.53,55.79,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,4,Apparel,18.22563362,-66.04745483,Pacific Asia,Ningbo,China,51
+DEBIT,5,4,48,383.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,Pacific Asia,Caloocan,Filipinas,51
+DEBIT,5,4,123.49,379.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,7,Fan Shop,18.22563362,-66.04745483,Pacific Asia,Caloocan,Filipinas,51
+DEBIT,5,4,-67.2,96,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Jessica,51,Smith,Home Office,PR,8344 Dewy Fawn Farms,725,5,Golf,18.22563362,-66.04745483,Pacific Asia,Caloocan,Filipinas,51
+TRANSFER,2,1,-173.24,247.49,Late delivery,1,7,Hockey,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,2,Fitness,41.89083099,-87.63043213,Europe,Madrid,Espa¤a,52
+TRANSFER,6,4,204.98,409.96,Late delivery,1,9,Cardio Equipment,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,3,Footwear,41.89083099,-87.63043213,LATAM,Los Mochis,M‚xico,52
+DEBIT,2,1,61.15,127.39,Late delivery,1,18,Men's Footwear,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,4,Apparel,41.89083099,-87.63043213,Europe,Middlesbrough,Reino Unido,52
+DEBIT,2,1,84.59,179.97,Late delivery,1,17,Cleats,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,4,Apparel,41.89083099,-87.63043213,Europe,Middlesbrough,Reino Unido,52
+PAYMENT,4,2,-24.96,124.79,Late delivery,1,18,Men's Footwear,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,4,Apparel,41.89083099,-87.63043213,Europe,Swansea,Reino Unido,52
+PAYMENT,4,2,39.59,143.96,Late delivery,1,29,Shop By Sport,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,5,Golf,41.89083099,-87.63043213,Europe,Swansea,Reino Unido,52
+TRANSFER,2,1,85.67,251.96,Late delivery,1,17,Cleats,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,4,Apparel,41.89083099,-87.63043213,Europe,Madrid,Espa¤a,52
+TRANSFER,6,4,-15.36,122.84,Late delivery,1,18,Men's Footwear,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,4,Apparel,41.89083099,-87.63043213,LATAM,Los Mochis,M‚xico,52
+DEBIT,2,1,11.25,149.99,Late delivery,1,48,Water Sports,Chicago,EE. UU.,Mary,52,Lawson,Corporate,IL,65 Silent Inlet,60622,7,Fan Shop,41.89083099,-87.63043213,Europe,Middlesbrough,Reino Unido,52
+TRANSFER,4,4,112.48,299.95,Shipping on time,0,17,Cleats,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,4,Apparel,34.05915451,-84.35758209,Europe,Valencia,Espa¤a,53
+PAYMENT,6,4,119.99,299.98,Late delivery,1,43,Camping & Hiking,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,Africa,Maradi,N¡ger,53
+PAYMENT,4,4,39.6,395.98,Shipping on time,0,45,Fishing,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,Pacific Asia,Singapur,Singapur,53
+PAYMENT,4,4,-69.1,254.98,Shipping on time,0,43,Camping & Hiking,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,Pacific Asia,Singapur,Singapur,53
+PAYMENT,4,4,78.87,251.98,Shipping on time,0,43,Camping & Hiking,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,Pacific Asia,Singapur,Singapur,53
+PAYMENT,4,4,7.92,90,Shipping on time,0,24,Women's Apparel,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,5,Golf,34.05915451,-84.35758209,Pacific Asia,Singapur,Singapur,53
+PAYMENT,2,4,11.8,199.98,Advance shipping,0,9,Cardio Equipment,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,3,Footwear,34.05915451,-84.35758209,USCA,Holland,Estados Unidos,53
+PAYMENT,6,4,55.77,178.17,Late delivery,1,17,Cleats,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,4,Apparel,34.05915451,-84.35758209,Africa,Maradi,N¡ger,53
+TRANSFER,2,4,97.63,278.95,Shipping canceled,0,17,Cleats,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,4,Apparel,34.05915451,-84.35758209,USCA,Seattle,Estados Unidos,53
+PAYMENT,6,4,103.93,296.95,Late delivery,1,17,Cleats,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,4,Apparel,34.05915451,-84.35758209,Africa,Maradi,N¡ger,53
+TRANSFER,1,0,24.81,141.75,Late delivery,1,24,Women's Apparel,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,5,Golf,34.05915451,-84.35758209,Pacific Asia,Kuala Terengganu,Malasia,53
+TRANSFER,2,4,64.89,191.99,Shipping canceled,0,48,Water Sports,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,USCA,Seattle,Estados Unidos,53
+TRANSFER,2,4,9.12,54.59,Shipping canceled,0,17,Cleats,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,4,Apparel,34.05915451,-84.35758209,USCA,Seattle,Estados Unidos,53
+PAYMENT,2,4,28.21,165.93,Advance shipping,0,46,Indoor/Outdoor Games,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,USCA,Holland,Estados Unidos,53
+PAYMENT,2,4,80.33,163.93,Advance shipping,0,46,Indoor/Outdoor Games,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,USCA,Holland,Estados Unidos,53
+PAYMENT,6,4,172.79,359.98,Late delivery,1,45,Fishing,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,Africa,Maradi,N¡ger,53
+PAYMENT,6,4,114.39,351.98,Late delivery,1,45,Fishing,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,Africa,Maradi,N¡ger,53
+TRANSFER,2,4,-66.5,379.98,Shipping canceled,0,45,Fishing,Roswell,EE. UU.,Katherine,53,Smith,Corporate,GA,975 Honey Loop,30075,7,Fan Shop,34.05915451,-84.35758209,USCA,Seattle,Estados Unidos,53
+PAYMENT,3,2,68.78,163.77,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,4,Apparel,18.02538109,-66.61508179,Europe,Eastbourne,Reino Unido,54
+PAYMENT,3,2,58.45,201.57,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,4,Apparel,18.02538109,-66.61508179,Europe,Eastbourne,Reino Unido,54
+DEBIT,2,1,20.02,114.39,Late delivery,1,32,Golf Apparel,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,6,Outdoors,18.02538109,-66.61508179,Europe,Munich,Alemania,54
+TRANSFER,3,4,12.3,163.99,Shipping canceled,0,48,Water Sports,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,7,Fan Shop,18.02538109,-66.61508179,LATAM,Quer‚taro,M‚xico,54
+TRANSFER,3,4,56,159.99,Shipping canceled,0,48,Water Sports,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,7,Fan Shop,18.02538109,-66.61508179,LATAM,Quer‚taro,M‚xico,54
+DEBIT,4,2,95.06,193.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,7,Fan Shop,18.02538109,-66.61508179,USCA,New York City,Estados Unidos,54
+TRANSFER,2,1,-4.75,163.93,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,7,Fan Shop,18.02538109,-66.61508179,Pacific Asia,Ras al Khaymah,Emiratos ?rabes Unidos,54
+DEBIT,2,1,21.29,118.29,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,4,Apparel,18.02538109,-66.61508179,Europe,Munich,Alemania,54
+DEBIT,2,1,19.07,116.99,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,4,Apparel,18.02538109,-66.61508179,Europe,Munich,Alemania,54
+DEBIT,2,1,35,100,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,5,Golf,18.02538109,-66.61508179,Europe,Munich,Alemania,54
+DEBIT,4,2,112.79,239.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,7,Fan Shop,18.02538109,-66.61508179,USCA,New York City,Estados Unidos,54
+PAYMENT,3,2,34.29,97.96,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,7,Fan Shop,18.02538109,-66.61508179,Europe,Eastbourne,Reino Unido,54
+TRANSFER,2,1,48.57,351.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,7,Fan Shop,18.02538109,-66.61508179,Pacific Asia,Ras al Khaymah,Emiratos ?rabes Unidos,54
+DEBIT,4,2,31.66,109.18,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,4,Apparel,18.02538109,-66.61508179,USCA,New York City,Estados Unidos,54
+DEBIT,4,2,72.6,200,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,5,Golf,18.02538109,-66.61508179,USCA,New York City,Estados Unidos,54
+PAYMENT,3,2,58.04,123.49,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,4,Apparel,18.02538109,-66.61508179,Europe,Eastbourne,Reino Unido,54
+PAYMENT,3,2,23.63,94.5,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,54,Olson,Home Office,PR,7333 Cinder Way,725,5,Golf,18.02538109,-66.61508179,Europe,Eastbourne,Reino Unido,54
+CASH,2,1,8.13,71.98,Late delivery,1,35,Golf Gloves,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,6,Outdoors,33.81112289,-112.0818558,Pacific Asia,Geelong,Australia,55
+CASH,2,1,-2.02,80.61,Late delivery,1,13,Electronics,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,3,Footwear,33.81112289,-112.0818558,Pacific Asia,Geelong,Australia,55
+CASH,4,2,-18.75,187.5,Late delivery,1,24,Women's Apparel,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,5,Golf,33.81112289,-112.0818558,Europe,Grevenbroich,Alemania,55
+CASH,4,4,-55.79,35.99,Shipping on time,0,29,Shop By Sport,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,5,Golf,33.81112289,-112.0818558,USCA,New York City,Estados Unidos,55
+CASH,4,4,-148.66,254.98,Shipping on time,0,43,Camping & Hiking,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,USCA,New York City,Estados Unidos,55
+CASH,4,4,28.47,251.98,Shipping on time,0,43,Camping & Hiking,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,USCA,New York City,Estados Unidos,55
+CASH,4,4,9.46,248.98,Shipping on time,0,43,Camping & Hiking,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,USCA,New York City,Estados Unidos,55
+CASH,4,2,161.28,335.99,Late delivery,1,48,Water Sports,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Europe,Grevenbroich,Alemania,55
+CASH,4,2,91.96,199.92,Late delivery,1,46,Indoor/Outdoor Games,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Europe,Grevenbroich,Alemania,55
+CASH,4,2,-8.55,149.94,Late delivery,1,46,Indoor/Outdoor Games,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Europe,Grevenbroich,Alemania,55
+PAYMENT,2,1,100.06,227.41,Late delivery,1,46,Indoor/Outdoor Games,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Europe,Maidenhead,Reino Unido,55
+CASH,4,4,-21.79,130.5,Shipping on time,0,24,Women's Apparel,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,5,Golf,33.81112289,-112.0818558,USCA,New York City,Estados Unidos,55
+CASH,4,2,114.39,351.98,Late delivery,1,45,Fishing,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Europe,Grevenbroich,Alemania,55
+PAYMENT,4,4,37.11,148.44,Shipping on time,0,46,Indoor/Outdoor Games,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Pacific Asia,Bundaberg,Australia,55
+PAYMENT,4,4,133.84,395.98,Shipping on time,0,45,Fishing,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Pacific Asia,Bundaberg,Australia,55
+PAYMENT,2,1,46.37,113.09,Late delivery,1,18,Men's Footwear,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,4,Apparel,33.81112289,-112.0818558,Europe,Maidenhead,Reino Unido,55
+PAYMENT,2,1,27.12,239.98,Late delivery,1,43,Camping & Hiking,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Europe,Maidenhead,Reino Unido,55
+PAYMENT,2,1,22.5,224.99,Late delivery,1,43,Camping & Hiking,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,7,Fan Shop,33.81112289,-112.0818558,Europe,Maidenhead,Reino Unido,55
+PAYMENT,4,2,60.9,217.5,Late delivery,1,24,Women's Apparel,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,5,Golf,33.81112289,-112.0818558,Europe,Chisin u,Moldavia,55
+PAYMENT,4,4,46.24,127.39,Shipping on time,0,18,Men's Footwear,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,4,Apparel,33.81112289,-112.0818558,Pacific Asia,Bundaberg,Australia,55
+PAYMENT,4,4,0.66,54.59,Shipping on time,0,17,Cleats,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,4,Apparel,33.81112289,-112.0818558,Pacific Asia,Bundaberg,Australia,55
+PAYMENT,4,4,12.72,112.6,Shipping on time,0,13,Electronics,Phoenix,EE. UU.,Janet,55,Farley,Home Office,AZ,6512 Middle Parade,85029,3,Footwear,33.81112289,-112.0818558,Pacific Asia,Bundaberg,Australia,55
+DEBIT,3,2,44.92,124.79,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,Pacific Asia,Napier,Nueva Zelanda,56
+DEBIT,2,4,-14.87,103.99,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,Europe,Latina,Italia,56
+DEBIT,2,4,14.82,56.99,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,Pacific Asia,Suzhou,China,56
+DEBIT,2,4,76.65,211.16,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,Pacific Asia,Suzhou,China,56
+DEBIT,2,4,-237.56,296.95,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,Pacific Asia,Suzhou,China,56
+PAYMENT,2,1,38.66,114.39,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,Africa,Lagos,Nigeria,56
+PAYMENT,2,1,21.77,59.99,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,5,Golf,18.1464901,-66.57675934,Africa,Lagos,Nigeria,56
+PAYMENT,2,1,116.4,237.56,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,Africa,Lagos,Nigeria,56
+DEBIT,2,4,32.39,89.96,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,7,Fan Shop,18.1464901,-66.57675934,Europe,Latina,Italia,56
+DEBIT,2,4,-34,169.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,7,Fan Shop,18.1464901,-66.57675934,Pacific Asia,Suzhou,China,56
+PAYMENT,3,4,57.74,122.84,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,4,Apparel,18.1464901,-66.57675934,LATAM,Caracas,Venezuela,56
+PAYMENT,3,4,11.37,39.19,Advance shipping,0,29,Shop By Sport,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,5,Golf,18.1464901,-66.57675934,LATAM,Caracas,Venezuela,56
+PAYMENT,2,1,143.99,299.99,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,7,Fan Shop,18.1464901,-66.57675934,Africa,Lagos,Nigeria,56
+PAYMENT,3,4,94.07,191.98,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,3,Footwear,18.1464901,-66.57675934,LATAM,Caracas,Venezuela,56
+PAYMENT,3,4,37.8,126,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Mary,56,Kaiser,Consumer,PR,7554 Stony Goose Crossing,725,5,Golf,18.1464901,-66.57675934,LATAM,Caracas,Venezuela,56
+DEBIT,2,2,-214.97,122.84,Shipping on time,0,18,Men's Footwear,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,4,Apparel,39.28894043,-76.60325623,USCA,Winnipeg,Canada,57
+DEBIT,2,2,28.81,254.97,Shipping on time,0,9,Cardio Equipment,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,3,Footwear,39.28894043,-76.60325623,USCA,Philadelphia,Estados Unidos,57
+PAYMENT,2,4,-457.58,175.99,Advance shipping,0,48,Water Sports,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,7,Fan Shop,39.28894043,-76.60325623,USCA,Springfield,Estados Unidos,57
+DEBIT,6,4,12.19,107.89,Late delivery,1,18,Men's Footwear,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,4,Apparel,39.28894043,-76.60325623,Africa,Cape Town,SudAfrica,57
+DEBIT,3,4,-48.95,57.59,Advance shipping,0,17,Cleats,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,4,Apparel,39.28894043,-76.60325623,Europe,Toulouse,Francia,57
+PAYMENT,2,4,2.58,41,Advance shipping,0,24,Women's Apparel,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,5,Golf,39.28894043,-76.60325623,USCA,Springfield,Estados Unidos,57
+PAYMENT,2,4,-39.04,272.98,Advance shipping,0,43,Camping & Hiking,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,7,Fan Shop,39.28894043,-76.60325623,USCA,Springfield,Estados Unidos,57
+DEBIT,6,4,54.07,159.98,Late delivery,1,9,Cardio Equipment,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,3,Footwear,39.28894043,-76.60325623,Africa,Cape Town,SudAfrica,57
+DEBIT,6,4,31.24,111.58,Late delivery,1,17,Cleats,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,4,Apparel,39.28894043,-76.60325623,Africa,Cape Town,SudAfrica,57
+PAYMENT,2,4,10.56,105.58,Advance shipping,0,17,Cleats,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,4,Apparel,39.28894043,-76.60325623,USCA,Springfield,Estados Unidos,57
+DEBIT,6,4,23.74,237.41,Late delivery,1,46,Indoor/Outdoor Games,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,7,Fan Shop,39.28894043,-76.60325623,Africa,Cape Town,SudAfrica,57
+DEBIT,6,4,62.39,239.96,Late delivery,1,17,Cleats,Baltimore,EE. UU.,Mary,57,Smith,Consumer,MD,57 High Villas,21229,4,Apparel,39.28894043,-76.60325623,Africa,Cape Town,SudAfrica,57
+TRANSFER,3,4,13.86,49.5,Shipping canceled,0,7,Hockey,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,2,Fitness,18.22563362,-66.04745483,LATAM,Curitiba,Brasil,58
+DEBIT,6,2,-318.48,127.39,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,4,Apparel,18.22563362,-66.04745483,LATAM,Santo Domingo,Rep£blica Dominicana,58
+DEBIT,6,2,82.64,284.95,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,4,Apparel,18.22563362,-66.04745483,LATAM,Santo Domingo,Rep£blica Dominicana,58
+CASH,2,4,-285.59,167.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,Europe,Massy,Francia,58
+DEBIT,6,2,-113.84,197.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Santo Domingo,Rep£blica Dominicana,58
+CASH,2,4,-75.97,47.48,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,Europe,Massy,Francia,58
+DEBIT,6,2,-47.58,199.92,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Santo Domingo,Rep£blica Dominicana,58
+TRANSFER,3,4,50.94,181.93,Shipping canceled,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Curitiba,Brasil,58
+PAYMENT,3,2,31.5,251.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,USCA,New York City,Estados Unidos,58
+PAYMENT,3,2,47.25,472.45,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,3,Footwear,18.22563362,-66.04745483,USCA,New York City,Estados Unidos,58
+PAYMENT,3,4,26.66,242.4,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,Pacific Asia,Manila,Filipinas,58
+PAYMENT,3,2,107.51,383.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,USCA,New York City,Estados Unidos,58
+PAYMENT,3,2,167.19,379.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,USCA,New York City,Estados Unidos,58
+PAYMENT,3,4,67.89,387.96,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,3,Footwear,18.22563362,-66.04745483,Pacific Asia,Manila,Filipinas,58
+PAYMENT,3,4,64.72,223.16,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,4,Apparel,18.22563362,-66.04745483,Pacific Asia,Manila,Filipinas,58
+PAYMENT,3,4,-29.29,464.95,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,3,Footwear,18.22563362,-66.04745483,Pacific Asia,Manila,Filipinas,58
+TRANSFER,3,4,17,339.98,Shipping canceled,0,45,Fishing,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,LATAM,Curitiba,Brasil,58
+TRANSFER,4,4,-84.62,120.89,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,4,Apparel,18.22563362,-66.04745483,Pacific Asia,Huainan,China,58
+TRANSFER,4,4,30,299.99,Shipping on time,0,45,Fishing,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,Pacific Asia,Huainan,China,58
+TRANSFER,2,4,23.15,47.25,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,5,Golf,18.22563362,-66.04745483,USCA,Chicago,Estados Unidos,58
+TRANSFER,2,4,6.56,82,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,5,Golf,18.22563362,-66.04745483,Europe,Celle,Alemania,58
+TRANSFER,3,4,29.58,101.98,Shipping canceled,0,17,Cleats,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,4,Apparel,18.22563362,-66.04745483,LATAM,Curitiba,Brasil,58
+TRANSFER,2,4,8.73,218.36,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,4,Apparel,18.22563362,-66.04745483,USCA,Chicago,Estados Unidos,58
+CASH,2,4,-352.74,235.16,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,4,Apparel,18.22563362,-66.04745483,Europe,Massy,Francia,58
+TRANSFER,2,4,16.37,45.48,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,7,Fan Shop,18.22563362,-66.04745483,Europe,Celle,Alemania,58
+TRANSFER,2,4,131.99,399.96,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Michael,58,Edwards,Consumer,PR,4770 Blue Pines,725,3,Footwear,18.22563362,-66.04745483,Europe,Celle,Alemania,58
+PAYMENT,6,2,14.62,116.99,Late delivery,1,18,Men's Footwear,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,4,Apparel,37.38236237,-122.0837021,Pacific Asia,Al Hillah,Irak,59
+PAYMENT,6,4,30.4,189.99,Late delivery,1,48,Water Sports,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,7,Fan Shop,37.38236237,-122.0837021,Pacific Asia,Tel Aviv,Israel,59
+TRANSFER,2,1,71.34,173.99,Late delivery,1,48,Water Sports,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,7,Fan Shop,37.38236237,-122.0837021,Africa,Kisangani,Rep£blica Democr tica del Congo,59
+DEBIT,6,4,38.37,106.59,Late delivery,1,18,Men's Footwear,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,4,Apparel,37.38236237,-122.0837021,Pacific Asia,Bagdad,Irak,59
+DEBIT,5,4,22.41,82.99,Late delivery,1,9,Cardio Equipment,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,3,Footwear,37.38236237,-122.0837021,USCA,Philadelphia,Estados Unidos,59
+TRANSFER,2,1,53.98,199.92,Late delivery,1,46,Indoor/Outdoor Games,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,7,Fan Shop,37.38236237,-122.0837021,Africa,Kisangani,Rep£blica Democr tica del Congo,59
+TRANSFER,2,1,67.69,218.36,Late delivery,1,17,Cleats,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,4,Apparel,37.38236237,-122.0837021,Africa,Kisangani,Rep£blica Democr tica del Congo,59
+TRANSFER,2,1,46.25,98.4,Late delivery,1,29,Shop By Sport,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,5,Golf,37.38236237,-122.0837021,Africa,Kisangani,Rep£blica Democr tica del Congo,59
+DEBIT,3,4,-8.6,136.45,Advance shipping,0,46,Indoor/Outdoor Games,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,7,Fan Shop,37.38236237,-122.0837021,Pacific Asia,Singapur,Singapur,59
+TRANSFER,2,1,-63.89,391.98,Late delivery,1,45,Fishing,Sunnyvale,EE. UU.,Douglas,59,James,Consumer,CA,2306 Green Lane,94086,7,Fan Shop,37.38236237,-122.0837021,Africa,Kisangani,Rep£blica Democr tica del Congo,59
+DEBIT,6,4,8.55,45,Late delivery,1,24,Women's Apparel,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,5,Golf,37.77796936,-121.9719162,Europe,Murcia,Espa¤a,60
+TRANSFER,2,1,46.18,167.93,Late delivery,1,46,Indoor/Outdoor Games,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,7,Fan Shop,37.77796936,-121.9719162,Africa,Chitungwiza,Zimbabue,60
+TRANSFER,3,4,120,244.9,Advance shipping,0,46,Indoor/Outdoor Games,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,7,Fan Shop,37.77796936,-121.9719162,LATAM,Santa Ana,El Salvador,60
+TRANSFER,3,4,0,48.48,Advance shipping,0,46,Indoor/Outdoor Games,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,7,Fan Shop,37.77796936,-121.9719162,LATAM,Santa Ana,El Salvador,60
+DEBIT,6,4,74.35,212.42,Late delivery,1,46,Indoor/Outdoor Games,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,7,Fan Shop,37.77796936,-121.9719162,Europe,Murcia,Espa¤a,60
+DEBIT,6,4,35.92,98.96,Late delivery,1,40,Accessories,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,6,Outdoors,37.77796936,-121.9719162,Europe,Murcia,Espa¤a,60
+TRANSFER,2,1,38.66,114.39,Late delivery,1,18,Men's Footwear,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,4,Apparel,37.77796936,-121.9719162,Africa,Chitungwiza,Zimbabue,60
+TRANSFER,2,1,18.43,113.09,Late delivery,1,18,Men's Footwear,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,4,Apparel,37.77796936,-121.9719162,Africa,Chitungwiza,Zimbabue,60
+TRANSFER,3,4,17.4,173.98,Advance shipping,0,9,Cardio Equipment,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,3,Footwear,37.77796936,-121.9719162,LATAM,Santa Ana,El Salvador,60
+TRANSFER,3,4,159.69,472.45,Advance shipping,0,9,Cardio Equipment,Webster,EE. UU.,Mary,60,Gutierrez,Home Office,NY,8632 Bright Route,14580,3,Footwear,37.77796936,-121.9719162,LATAM,Santa Ana,El Salvador,60
+TRANSFER,2,1,31.95,67.98,Late delivery,1,26,Girls' Apparel,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,5,Golf,18.1464901,-66.54896545,USCA,Johnson City,Estados Unidos,61
+TRANSFER,2,1,-62.9,85,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,5,Golf,18.1464901,-66.54896545,USCA,Johnson City,Estados Unidos,61
+TRANSFER,2,1,136.11,374.96,Late delivery,1,9,Cardio Equipment,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,3,Footwear,18.1464901,-66.54896545,USCA,Johnson City,Estados Unidos,61
+TRANSFER,2,1,28.13,248.96,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,4,Apparel,18.1464901,-66.54896545,USCA,Johnson City,Estados Unidos,61
+TRANSFER,3,2,20.04,74.22,Late delivery,1,40,Accessories,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,6,Outdoors,18.1464901,-66.54896545,Pacific Asia,Dubbo,Australia,61
+TRANSFER,3,2,86,199.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,7,Fan Shop,18.1464901,-66.54896545,Pacific Asia,Dubbo,Australia,61
+DEBIT,6,4,36.9,109.18,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,4,Apparel,18.1464901,-66.54896545,LATAM,Caucaia,Brasil,61
+DEBIT,6,4,84.59,179.97,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,4,Apparel,18.1464901,-66.54896545,LATAM,Caucaia,Brasil,61
+DEBIT,6,4,58.19,155.16,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Margaret,61,Summers,Home Office,PR,8963 Hidden Panda Meadow,725,5,Golf,18.1464901,-66.54896545,LATAM,Caucaia,Brasil,61
+DEBIT,1,0,174.71,363.98,Late delivery,1,45,Fishing,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,7,Fan Shop,43.10412979,-77.1641922,Europe,Paris,Francia,62
+DEBIT,0,0,14.08,38.79,Shipping on time,0,29,Shop By Sport,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,5,Golf,43.10412979,-77.1641922,USCA,Medford,Estados Unidos,62
+DEBIT,0,0,76.43,272.98,Shipping on time,0,43,Camping & Hiking,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,7,Fan Shop,43.10412979,-77.1641922,USCA,Medford,Estados Unidos,62
+DEBIT,0,0,29.01,111.58,Shipping on time,0,17,Cleats,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,4,Apparel,43.10412979,-77.1641922,USCA,Medford,Estados Unidos,62
+DEBIT,4,4,30.53,113.09,Shipping on time,0,18,Men's Footwear,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,4,Apparel,43.10412979,-77.1641922,LATAM,M‚rida,M‚xico,62
+DEBIT,4,4,29.83,110.49,Shipping on time,0,18,Men's Footwear,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,4,Apparel,43.10412979,-77.1641922,LATAM,M‚rida,M‚xico,62
+DEBIT,1,0,77.9,189.99,Late delivery,1,48,Water Sports,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,7,Fan Shop,43.10412979,-77.1641922,Europe,Paris,Francia,62
+DEBIT,4,4,25.99,99.96,Shipping on time,0,46,Indoor/Outdoor Games,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,7,Fan Shop,43.10412979,-77.1641922,LATAM,M‚rida,M‚xico,62
+TRANSFER,1,0,4.87,97.49,Late delivery,1,18,Men's Footwear,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,4,Apparel,43.10412979,-77.1641922,LATAM,Saltillo,M‚xico,62
+TRANSFER,1,0,85.25,173.98,Late delivery,1,9,Cardio Equipment,Brooklyn,EE. UU.,Mary,62,Oneal,Consumer,NY,2659 Jagged Rabbit View,11223,3,Footwear,43.10412979,-77.1641922,LATAM,Saltillo,M‚xico,62
+PAYMENT,2,1,45.92,163.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,7,Fan Shop,18.2275734,-66.04562378,LATAM,Palmares,Brasil,63
+PAYMENT,2,1,13.92,159.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,7,Fan Shop,18.2275734,-66.04562378,LATAM,Palmares,Brasil,63
+DEBIT,5,4,42.75,90.96,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,7,Fan Shop,18.2275734,-66.04562378,Africa,Monrovia,Liberia,63
+DEBIT,2,1,3.32,82.99,Late delivery,1,16,As Seen on  TV!,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,3,Footwear,18.2275734,-66.04562378,Europe,Ipswich,Reino Unido,63
+DEBIT,2,1,83.15,296.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,7,Fan Shop,18.2275734,-66.04562378,Europe,Ipswich,Reino Unido,63
+DEBIT,2,1,50.15,113.97,Late delivery,1,29,Shop By Sport,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,5,Golf,18.2275734,-66.04562378,Europe,Hamburgo,Alemania,63
+DEBIT,5,4,95.6,199.17,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,4,Apparel,18.2275734,-66.04562378,Africa,Monrovia,Liberia,63
+PAYMENT,2,1,27.04,103.99,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,4,Apparel,18.2275734,-66.04562378,LATAM,Palmares,Brasil,63
+PAYMENT,2,1,14.36,227.96,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,4,Apparel,18.2275734,-66.04562378,LATAM,Palmares,Brasil,63
+PAYMENT,2,1,70.4,160,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Aaron,63,Smith,Home Office,PR,2265 Foggy Lagoon Bend,725,5,Golf,18.2275734,-66.04562378,LATAM,Palmares,Brasil,63
+TRANSFER,3,4,20.25,56.25,Shipping canceled,0,26,Girls' Apparel,Chicago,EE. UU.,Mary,64,Reynolds,Corporate,IL,2407 Gentle Woods,60647,5,Golf,41.91633987,-87.63731384,USCA,San Francisco,Estados Unidos,64
+TRANSFER,3,4,84.66,201.57,Shipping canceled,0,17,Cleats,Chicago,EE. UU.,Mary,64,Reynolds,Corporate,IL,2407 Gentle Woods,60647,4,Apparel,41.91633987,-87.63731384,USCA,San Francisco,Estados Unidos,64
+TRANSFER,3,4,41.59,159.96,Shipping canceled,0,26,Girls' Apparel,Chicago,EE. UU.,Mary,64,Reynolds,Corporate,IL,2407 Gentle Woods,60647,5,Golf,41.91633987,-87.63731384,USCA,San Francisco,Estados Unidos,64
+PAYMENT,2,1,104.75,387.98,Late delivery,1,45,Fishing,Chicago,EE. UU.,Mary,64,Reynolds,Corporate,IL,2407 Gentle Woods,60647,7,Fan Shop,41.91633987,-87.63731384,LATAM,Uberaba,Brasil,64
+TRANSFER,5,2,12.9,149.99,Shipping canceled,0,48,Water Sports,Chicago,EE. UU.,Mary,64,Reynolds,Corporate,IL,2407 Gentle Woods,60647,7,Fan Shop,41.91633987,-87.63731384,LATAM,Mexico City,M‚xico,64
+PAYMENT,2,1,18,179.99,Late delivery,1,48,Water Sports,Chicago,EE. UU.,Mary,64,Reynolds,Corporate,IL,2407 Gentle Woods,60647,7,Fan Shop,41.91633987,-87.63731384,LATAM,Uberaba,Brasil,64
+TRANSFER,3,4,-5.2,103.99,Shipping canceled,0,18,Men's Footwear,Chicago,EE. UU.,Mary,64,Reynolds,Corporate,IL,2407 Gentle Woods,60647,4,Apparel,41.91633987,-87.63731384,USCA,San Francisco,Estados Unidos,64
+TRANSFER,5,4,-4.1,164,Late delivery,1,24,Women's Apparel,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,5,Golf,40.80894089,-74.0328598,Pacific Asia,Katoomba,Australia,65
+PAYMENT,3,4,50.83,110.49,Advance shipping,0,18,Men's Footwear,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,4,Apparel,40.80894089,-74.0328598,Europe,Birmingham,Reino Unido,65
+PAYMENT,4,4,23.66,106.59,Shipping on time,0,18,Men's Footwear,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,4,Apparel,40.80894089,-74.0328598,Europe,Herne,Alemania,65
+TRANSFER,2,1,11.47,181.99,Late delivery,1,48,Water Sports,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,Africa,Nairobi,Kenia,65
+PAYMENT,4,4,181.99,363.98,Shipping on time,0,45,Fishing,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,Europe,Herne,Alemania,65
+PAYMENT,4,4,161.99,359.98,Shipping on time,0,45,Fishing,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,Europe,Herne,Alemania,65
+DEBIT,3,4,-207.89,296.98,Advance shipping,0,43,Camping & Hiking,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,USCA,Memphis,Estados Unidos,65
+TRANSFER,2,1,-42.48,212.42,Late delivery,1,46,Indoor/Outdoor Games,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,Africa,Nairobi,Kenia,65
+PAYMENT,4,4,79.38,188.99,Shipping on time,0,48,Water Sports,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,Europe,Herne,Alemania,65
+TRANSFER,2,1,31.55,100.78,Late delivery,1,17,Cleats,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,4,Apparel,40.80894089,-74.0328598,Africa,Nairobi,Kenia,65
+TRANSFER,2,1,-30.67,144,Late delivery,1,24,Women's Apparel,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,5,Golf,40.80894089,-74.0328598,Africa,Nairobi,Kenia,65
+TRANSFER,5,2,13.86,39.59,Late delivery,1,29,Shop By Sport,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,5,Golf,40.80894089,-74.0328598,Europe,Turin,Italia,65
+TRANSFER,5,2,88.18,195.95,Late delivery,1,29,Shop By Sport,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,5,Golf,40.80894089,-74.0328598,Europe,Turin,Italia,65
+DEBIT,3,4,24.25,193.98,Advance shipping,0,9,Cardio Equipment,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,3,Footwear,40.80894089,-74.0328598,USCA,Memphis,Estados Unidos,65
+TRANSFER,5,4,30.57,109.19,Late delivery,1,18,Men's Footwear,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,4,Apparel,40.80894089,-74.0328598,Pacific Asia,Katoomba,Australia,65
+TRANSFER,5,4,30.21,107.89,Late delivery,1,18,Men's Footwear,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,4,Apparel,40.80894089,-74.0328598,Pacific Asia,Katoomba,Australia,65
+TRANSFER,5,4,83.51,287.98,Late delivery,1,43,Camping & Hiking,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,Pacific Asia,Katoomba,Australia,65
+TRANSFER,5,4,-10.52,93.1,Late delivery,1,37,Electronics,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,6,Outdoors,40.80894089,-74.0328598,Pacific Asia,Katoomba,Australia,65
+DEBIT,3,4,121.96,335.98,Advance shipping,0,45,Fishing,Princeton,EE. UU.,Jennifer,65,Smith,Consumer,NJ,7126 Shady Bluff Promenade,8540,7,Fan Shop,40.80894089,-74.0328598,USCA,Memphis,Estados Unidos,65
+PAYMENT,5,4,92.27,272.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,USCA,Lowell,Estados Unidos,66
+PAYMENT,5,4,29.75,85,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,5,Golf,18.21450234,-66.0867157,USCA,Lowell,Estados Unidos,66
+TRANSFER,5,4,3.78,43.5,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,5,Golf,18.21450234,-66.0867157,Europe,Worcester,Reino Unido,66
+TRANSFER,5,4,58.79,117.58,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,4,Apparel,18.21450234,-66.0867157,Europe,Worcester,Reino Unido,66
+TRANSFER,5,4,13.5,179.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,Europe,Worcester,Reino Unido,66
+DEBIT,2,2,10.58,167.99,Shipping on time,0,48,Water Sports,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,Africa,Marrakech,Marruecos,66
+DEBIT,2,2,-163.13,95.96,Shipping on time,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,Africa,Marrakech,Marruecos,66
+PAYMENT,4,2,6.52,130.45,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,LATAM,Barranquilla,Colombia,66
+PAYMENT,4,2,102.18,217.41,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,LATAM,Barranquilla,Colombia,66
+DEBIT,2,2,19.5,59.99,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,4,Apparel,18.21450234,-66.0867157,Africa,Marrakech,Marruecos,66
+DEBIT,2,2,66.27,251.98,Shipping on time,0,43,Camping & Hiking,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,Africa,Marrakech,Marruecos,66
+DEBIT,2,2,26.03,230.36,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,4,Apparel,18.21450234,-66.0867157,Africa,Marrakech,Marruecos,66
+DEBIT,6,4,17.6,40,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,5,Golf,18.21450234,-66.0867157,LATAM,S?o Paulo,Brasil,66
+DEBIT,6,4,91.52,351.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,LATAM,S?o Paulo,Brasil,66
+DEBIT,6,4,30.74,245.96,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,4,Apparel,18.21450234,-66.0867157,LATAM,S?o Paulo,Brasil,66
+PAYMENT,5,4,-69.93,371.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,USCA,Lowell,Estados Unidos,66
+PAYMENT,4,2,58.03,120.89,Late delivery,1,18,Men's Footwear,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,4,Apparel,18.21450234,-66.0867157,LATAM,Barranquilla,Colombia,66
+PAYMENT,4,2,18.2,49.19,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,4,Apparel,18.21450234,-66.0867157,LATAM,Barranquilla,Colombia,66
+PAYMENT,4,2,115.19,319.98,Late delivery,1,45,Fishing,Caguas,Puerto Rico,Mary,66,Booth,Home Office,PR,8824 Noble View Valley,725,7,Fan Shop,18.21450234,-66.0867157,LATAM,Barranquilla,Colombia,66
+PAYMENT,2,1,-18.33,290.98,Late delivery,1,43,Camping & Hiking,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,7,Fan Shop,29.50356865,-98.58555603,Pacific Asia,Brisbane,Australia,67
+PAYMENT,2,1,138.23,287.98,Late delivery,1,43,Camping & Hiking,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,7,Fan Shop,29.50356865,-98.58555603,Pacific Asia,Brisbane,Australia,67
+PAYMENT,2,4,137.99,299.98,Advance shipping,0,43,Camping & Hiking,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,7,Fan Shop,29.50356865,-98.58555603,Europe,Celle,Alemania,67
+PAYMENT,2,4,-46.13,172.77,Advance shipping,0,17,Cleats,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,4,Apparel,29.50356865,-98.58555603,Europe,Celle,Alemania,67
+PAYMENT,2,4,29.48,90.72,Advance shipping,0,33,Golf Shoes,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,6,Outdoors,29.50356865,-98.58555603,Europe,Celle,Alemania,67
+PAYMENT,2,4,87.14,248.96,Advance shipping,0,17,Cleats,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,4,Apparel,29.50356865,-98.58555603,Europe,Celle,Alemania,67
+PAYMENT,2,1,54.88,195.99,Late delivery,1,48,Water Sports,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,7,Fan Shop,29.50356865,-98.58555603,Pacific Asia,Brisbane,Australia,67
+PAYMENT,2,4,76.47,169.93,Advance shipping,0,46,Indoor/Outdoor Games,Chicago,EE. UU.,Samantha,67,Smith,Corporate,IL,7869 Wishing Anchor Court,60619,7,Fan Shop,29.50356865,-98.58555603,Europe,Celle,Alemania,67
+DEBIT,2,1,6.05,67.18,Late delivery,1,26,Girls' Apparel,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,5,Golf,33.09320068,-117.1668167,Europe,Carpi,Italia,68
+DEBIT,2,1,19.59,156.75,Late delivery,1,37,Electronics,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,6,Outdoors,33.09320068,-117.1668167,Europe,Carpi,Italia,68
+PAYMENT,4,4,133.91,371.98,Shipping on time,0,45,Fishing,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,7,Fan Shop,33.09320068,-117.1668167,LATAM,Acu¤a,M‚xico,68
+DEBIT,2,1,54.6,167.99,Late delivery,1,48,Water Sports,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,7,Fan Shop,33.09320068,-117.1668167,Europe,Carpi,Italia,68
+PAYMENT,4,4,83.99,239.96,Shipping on time,0,17,Cleats,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,4,Apparel,33.09320068,-117.1668167,LATAM,Acu¤a,M‚xico,68
+PAYMENT,4,4,103.5,225,Shipping on time,0,24,Women's Apparel,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,5,Golf,33.09320068,-117.1668167,LATAM,Acu¤a,M‚xico,68
+TRANSFER,2,1,3.55,118.29,Shipping canceled,0,18,Men's Footwear,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,4,Apparel,33.09320068,-117.1668167,USCA,Los Angeles,Estados Unidos,68
+DEBIT,2,1,-69,89.96,Late delivery,1,46,Indoor/Outdoor Games,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,7,Fan Shop,33.09320068,-117.1668167,Europe,Carpi,Italia,68
+PAYMENT,4,4,13.49,37.49,Shipping on time,0,46,Indoor/Outdoor Games,Peoria,EE. UU.,Mary,68,Oneal,Consumer,AZ,376 Silver Terrace,85345,7,Fan Shop,33.09320068,-117.1668167,LATAM,Acu¤a,M‚xico,68
+DEBIT,4,4,28.08,103.99,Shipping on time,0,18,Men's Footwear,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,4,Apparel,18.22368431,-66.04928589,USCA,Philadelphia,Estados Unidos,69
+DEBIT,4,4,46.91,101.98,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,4,Apparel,18.22368431,-66.04928589,USCA,Philadelphia,Estados Unidos,69
+DEBIT,4,4,47.37,100.78,Shipping on time,0,17,Cleats,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,4,Apparel,18.22368431,-66.04928589,USCA,Philadelphia,Estados Unidos,69
+DEBIT,4,4,-0.41,29.1,Shipping on time,0,41,Trade-In,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,6,Outdoors,18.22368431,-66.04928589,USCA,Philadelphia,Estados Unidos,69
+TRANSFER,2,4,85.26,173.99,Advance shipping,0,48,Water Sports,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,7,Fan Shop,18.22368431,-66.04928589,Europe,Ghent,B‚lgica,69
+DEBIT,4,4,34.8,120,Shipping on time,0,24,Women's Apparel,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,5,Golf,18.22368431,-66.04928589,USCA,Philadelphia,Estados Unidos,69
+DEBIT,5,4,27.06,165.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,7,Fan Shop,18.22368431,-66.04928589,Europe,Mƒcon,Francia,69
+TRANSFER,6,4,-21.65,90.96,Late delivery,1,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,7,Fan Shop,18.22368431,-66.04928589,Africa,Johannesburg,SudAfrica,69
+TRANSFER,2,4,41.4,118.29,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,4,Apparel,18.22368431,-66.04928589,Europe,Ghent,B‚lgica,69
+TRANSFER,2,4,17.22,49.19,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,4,Apparel,18.22368431,-66.04928589,Europe,Ghent,B‚lgica,69
+TRANSFER,2,4,12.75,42.5,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,5,Golf,18.22368431,-66.04928589,Europe,Ghent,B‚lgica,69
+TRANSFER,2,4,20.16,42,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,5,Golf,18.22368431,-66.04928589,Europe,Ghent,B‚lgica,69
+TRANSFER,2,4,54.14,110.49,Advance shipping,0,18,Men's Footwear,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,4,Apparel,18.22368431,-66.04928589,Europe,Emmen,Pa¡ses Bajos,69
+TRANSFER,2,4,37.87,143.98,Advance shipping,0,17,Cleats,Caguas,Puerto Rico,Megan,69,Smith,Consumer,PR,7796 Thunder Forest Villas,725,4,Apparel,18.22368431,-66.04928589,Europe,Emmen,Pa¡ses Bajos,69
+DEBIT,3,4,26.2,54.59,Advance shipping,0,17,Cleats,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,4,Apparel,33.73583221,-118.2922211,Pacific Asia,Delhi,India,70
+DEBIT,2,1,47.19,129.99,Late delivery,1,18,Men's Footwear,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,4,Apparel,33.73583221,-118.2922211,LATAM,San Pedro Sula,Honduras,70
+DEBIT,2,1,-139.2,87,Late delivery,1,24,Women's Apparel,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,5,Golf,33.73583221,-118.2922211,LATAM,San Pedro Sula,Honduras,70
+DEBIT,2,1,35.7,85,Late delivery,1,24,Women's Apparel,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,5,Golf,33.73583221,-118.2922211,LATAM,San Pedro Sula,Honduras,70
+DEBIT,2,1,91.07,290.97,Late delivery,1,9,Cardio Equipment,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,3,Footwear,33.73583221,-118.2922211,LATAM,San Pedro Sula,Honduras,70
+DEBIT,2,1,54.87,156.76,Late delivery,1,29,Shop By Sport,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,5,Golf,33.73583221,-118.2922211,Pacific Asia,Tamworth,Australia,70
+DEBIT,3,4,90.66,278.95,Advance shipping,0,17,Cleats,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,4,Apparel,33.73583221,-118.2922211,Pacific Asia,Delhi,India,70
+DEBIT,2,1,78.75,225,Late delivery,1,24,Women's Apparel,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,5,Golf,33.73583221,-118.2922211,Pacific Asia,Tamworth,Australia,70
+TRANSFER,2,1,34.75,128.69,Late delivery,1,18,Men's Footwear,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,4,Apparel,33.73583221,-118.2922211,Europe,Viena,Austria,70
+TRANSFER,2,1,-197.45,127.39,Late delivery,1,18,Men's Footwear,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,4,Apparel,33.73583221,-118.2922211,Europe,Viena,Austria,70
+TRANSFER,2,1,100.76,209.92,Late delivery,1,46,Indoor/Outdoor Games,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,7,Fan Shop,33.73583221,-118.2922211,Europe,Viena,Austria,70
+DEBIT,2,1,49.14,188.99,Late delivery,1,48,Water Sports,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,7,Fan Shop,33.73583221,-118.2922211,Pacific Asia,Tamworth,Australia,70
+TRANSFER,5,2,13.2,175.96,Late delivery,1,29,Shop By Sport,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,5,Golf,33.73583221,-118.2922211,LATAM,Soyapango,El Salvador,70
+DEBIT,3,4,56,159.99,Advance shipping,0,48,Water Sports,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,7,Fan Shop,33.73583221,-118.2922211,Pacific Asia,Delhi,India,70
+DEBIT,3,4,69.8,142.44,Advance shipping,0,46,Indoor/Outdoor Games,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,7,Fan Shop,33.73583221,-118.2922211,Pacific Asia,Delhi,India,70
+DEBIT,3,4,7.27,96.96,Advance shipping,0,46,Indoor/Outdoor Games,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,7,Fan Shop,33.73583221,-118.2922211,Pacific Asia,Delhi,India,70
+DEBIT,2,1,127.76,377.98,Late delivery,1,45,Fishing,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,7,Fan Shop,33.73583221,-118.2922211,Pacific Asia,Tamworth,Australia,70
+TRANSFER,5,2,45.05,143.94,Late delivery,1,46,Indoor/Outdoor Games,Los Angeles,EE. UU.,Mary,70,Simmons,Corporate,CA,5553 Cinder Harbour,90042,7,Fan Shop,33.73583221,-118.2922211,LATAM,Soyapango,El Salvador,70
+DEBIT,3,4,29,99.99,Advance shipping,0,9,Cardio Equipment,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,3,Footwear,34.08999252,-118.1542206,Pacific Asia,Kabul,Afganist n,71
+DEBIT,3,4,25.92,53.99,Advance shipping,0,17,Cleats,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,4,Apparel,34.08999252,-118.1542206,Pacific Asia,Kabul,Afganist n,71
+DEBIT,3,4,48.75,150,Advance shipping,0,24,Women's Apparel,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,Pacific Asia,Kabul,Afganist n,71
+CASH,2,1,53.66,124.79,Late delivery,1,18,Men's Footwear,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,4,Apparel,34.08999252,-118.1542206,LATAM,Portmore,Jamaica,71
+CASH,2,1,12.74,36.39,Late delivery,1,29,Shop By Sport,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,LATAM,Portmore,Jamaica,71
+CASH,2,1,26.39,105.57,Late delivery,1,29,Shop By Sport,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,LATAM,Portmore,Jamaica,71
+CASH,2,1,63.8,220,Late delivery,1,24,Women's Apparel,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,LATAM,Portmore,Jamaica,71
+PAYMENT,3,4,9.6,29.99,Advance shipping,0,29,Shop By Sport,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,LATAM,Villa Canales,Guatemala,71
+DEBIT,3,2,30.16,103.99,Late delivery,1,18,Men's Footwear,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,4,Apparel,34.08999252,-118.1542206,LATAM,Santiago de Cuba,Cuba,71
+DEBIT,3,2,44.85,97.49,Late delivery,1,18,Men's Footwear,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,4,Apparel,34.08999252,-118.1542206,LATAM,Santiago de Cuba,Cuba,71
+DEBIT,3,2,43.68,335.98,Late delivery,1,45,Fishing,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,7,Fan Shop,34.08999252,-118.1542206,LATAM,Santiago de Cuba,Cuba,71
+DEBIT,3,2,31.54,83,Late delivery,1,24,Women's Apparel,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,LATAM,Santiago de Cuba,Cuba,71
+DEBIT,3,2,23.04,47.01,Late delivery,1,41,Trade-In,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,6,Outdoors,34.08999252,-118.1542206,LATAM,Santiago de Cuba,Cuba,71
+TRANSFER,6,2,48.98,99.95,Late delivery,1,32,Golf Apparel,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,6,Outdoors,34.08999252,-118.1542206,USCA,Philadelphia,Estados Unidos,71
+TRANSFER,4,2,-145.59,181.99,Late delivery,1,48,Water Sports,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,7,Fan Shop,34.08999252,-118.1542206,LATAM,Managua,Nicaragua,71
+TRANSFER,4,2,-141.1,201.57,Late delivery,1,17,Cleats,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,4,Apparel,34.08999252,-118.1542206,LATAM,Managua,Nicaragua,71
+TRANSFER,6,2,12.3,164,Late delivery,1,24,Women's Apparel,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,USCA,Philadelphia,Estados Unidos,71
+TRANSFER,4,2,-168,210,Late delivery,1,24,Women's Apparel,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,5,Golf,34.08999252,-118.1542206,LATAM,Managua,Nicaragua,71
+TRANSFER,6,4,21.82,290.98,Late delivery,1,43,Camping & Hiking,Philadelphia,EE. UU.,Charles,71,Smith,Corporate,PA,6140 Pleasant Dale Farm,19145,7,Fan Shop,34.08999252,-118.1542206,LATAM,Miguel Hidalgo,M‚xico,71
+PAYMENT,5,2,44.65,94.99,Late delivery,1,12,Boxing & MMA,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,3,Footwear,33.29120636,-117.268959,Europe,Bognor Regis,Reino Unido,72
+PAYMENT,5,2,76.49,339.97,Late delivery,1,5,Lacrosse,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,2,Fitness,33.29120636,-117.268959,Europe,Bognor Regis,Reino Unido,72
+PAYMENT,5,2,47.03,235.16,Late delivery,1,17,Cleats,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,4,Apparel,33.29120636,-117.268959,Europe,Bognor Regis,Reino Unido,72
+PAYMENT,5,2,-18.44,84.97,Late delivery,1,46,Indoor/Outdoor Games,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,Europe,Bognor Regis,Reino Unido,72
+DEBIT,5,4,55.6,118.29,Late delivery,1,18,Men's Footwear,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,4,Apparel,33.29120636,-117.268959,LATAM,Antiguo Cuscatl n,El Salvador,72
+PAYMENT,3,4,-182.31,110.49,Advance shipping,0,18,Men's Footwear,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,4,Apparel,33.29120636,-117.268959,LATAM,Huixquilucan,M‚xico,72
+PAYMENT,3,4,99.22,283.48,Advance shipping,0,43,Camping & Hiking,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Huixquilucan,M‚xico,72
+PAYMENT,2,4,-152.63,239.98,Advance shipping,0,43,Camping & Hiking,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Apopa,El Salvador,72
+PAYMENT,2,4,107.99,224.99,Advance shipping,0,43,Camping & Hiking,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Apopa,El Salvador,72
+DEBIT,5,4,12.8,79.98,Late delivery,1,29,Shop By Sport,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,5,Golf,33.29120636,-117.268959,LATAM,Antiguo Cuscatl n,El Salvador,72
+PAYMENT,3,4,15.22,43.48,Advance shipping,0,46,Indoor/Outdoor Games,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Huixquilucan,M‚xico,72
+PAYMENT,3,4,32.47,111.97,Advance shipping,0,3,Baseball & Softball,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,2,Fitness,33.29120636,-117.268959,LATAM,Huixquilucan,M‚xico,72
+PAYMENT,5,2,176.39,391.98,Late delivery,1,45,Fishing,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,Europe,Bognor Regis,Reino Unido,72
+TRANSFER,4,2,25.2,251.98,Late delivery,1,43,Camping & Hiking,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Mixco,Guatemala,72
+TRANSFER,3,2,102.9,283.48,Late delivery,1,43,Camping & Hiking,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,Pacific Asia,Bursa,Turqu¡a,72
+TRANSFER,3,2,-140.07,210,Late delivery,1,24,Women's Apparel,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,5,Golf,33.29120636,-117.268959,Pacific Asia,Bursa,Turqu¡a,72
+DEBIT,5,4,36.73,131.17,Late delivery,1,29,Shop By Sport,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,5,Golf,33.29120636,-117.268959,LATAM,Antiguo Cuscatl n,El Salvador,72
+DEBIT,5,4,22.4,319.98,Late delivery,1,45,Fishing,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Antiguo Cuscatl n,El Salvador,72
+DEBIT,5,4,113.99,299.99,Late delivery,1,45,Fishing,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Antiguo Cuscatl n,El Salvador,72
+PAYMENT,3,4,76,379.98,Advance shipping,0,45,Fishing,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,LATAM,Huixquilucan,M‚xico,72
+TRANSFER,3,2,174.83,371.98,Late delivery,1,45,Fishing,Vista,EE. UU.,Frank,72,Gillespie,Consumer,CA,5332 Heather Hills Isle,92084,7,Fan Shop,33.29120636,-117.268959,Pacific Asia,Bursa,Turqu¡a,72
+PAYMENT,2,4,-25.94,227.5,Advance shipping,0,24,Women's Apparel,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,5,Golf,18.22758865,-66.0435791,Pacific Asia,Kathmandu,Nepal,73
+TRANSFER,5,4,24.01,49,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,5,Golf,18.22758865,-66.0435791,Europe,Paris,Francia,73
+TRANSFER,2,4,-410.82,248.98,Advance shipping,0,43,Camping & Hiking,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,7,Fan Shop,18.22758865,-66.0435791,Pacific Asia,Geelong,Australia,73
+TRANSFER,5,4,-163.77,109.18,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,4,Apparel,18.22758865,-66.0435791,Europe,Paris,Francia,73
+TRANSFER,2,4,-18.9,299.97,Advance shipping,0,9,Cardio Equipment,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,3,Footwear,18.22758865,-66.0435791,Pacific Asia,Geelong,Australia,73
+TRANSFER,5,4,18.6,299.95,Late delivery,1,17,Cleats,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,4,Apparel,18.22758865,-66.0435791,Europe,Paris,Francia,73
+TRANSFER,5,4,13.2,175.99,Late delivery,1,48,Water Sports,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,7,Fan Shop,18.22758865,-66.0435791,Europe,Paris,Francia,73
+DEBIT,2,1,70.98,272.98,Late delivery,1,43,Camping & Hiking,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,7,Fan Shop,18.22758865,-66.0435791,Pacific Asia,Se£l,Corea del Sur,73
+DEBIT,2,1,82,200,Late delivery,1,24,Women's Apparel,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,5,Golf,18.22758865,-66.0435791,Pacific Asia,Se£l,Corea del Sur,73
+PAYMENT,2,4,7.17,43.98,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,7,Fan Shop,18.22758865,-66.0435791,Pacific Asia,Kathmandu,Nepal,73
+PAYMENT,2,4,39.46,83.97,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,7,Fan Shop,18.22758865,-66.0435791,Pacific Asia,Kathmandu,Nepal,73
+PAYMENT,2,4,24.06,82.97,Advance shipping,0,46,Indoor/Outdoor Games,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,7,Fan Shop,18.22758865,-66.0435791,Pacific Asia,Kathmandu,Nepal,73
+TRANSFER,2,4,28.5,379.98,Advance shipping,0,45,Fishing,Caguas,Puerto Rico,Mary,73,Smith,Home Office,PR,8247 Little Cider Close,725,7,Fan Shop,18.22758865,-66.0435791,Pacific Asia,Geelong,Australia,73
+CASH,2,1,-84,48,Late delivery,1,24,Women's Apparel,Jacksonville,EE. UU.,Alice,74,Rush,Corporate,NC,409 Iron Park,28540,5,Golf,29.46871567,-98.35108948,Africa,Bo,Sierra Leona,74
+CASH,2,1,-66.5,47.5,Late delivery,1,24,Women's Apparel,Jacksonville,EE. UU.,Alice,74,Rush,Corporate,NC,409 Iron Park,28540,5,Golf,29.46871567,-98.35108948,Africa,Bo,Sierra Leona,74
+CASH,2,1,26.81,201.57,Late delivery,1,17,Cleats,Jacksonville,EE. UU.,Alice,74,Rush,Corporate,NC,409 Iron Park,28540,4,Apparel,29.46871567,-98.35108948,Africa,Bo,Sierra Leona,74

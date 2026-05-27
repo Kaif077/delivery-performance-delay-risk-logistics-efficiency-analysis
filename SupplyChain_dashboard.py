@@ -12,7 +12,7 @@ st.set_page_config(
 # ====================== LOAD DATA ======================
 @st.cache_data
 def load_data():
-    df = pd.read_csv("sample_logistics.csv")
+    df = pd.read_csv("sample_logistics.csv", encoding="latin1")
     # Calculate Delay Gap if not present
     if 'Delay Gap' not in df.columns:
         df['Delay Gap'] = df['Days for shipping (real)'] - df['Days for shipment (scheduled)']
